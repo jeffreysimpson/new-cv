@@ -89,9 +89,11 @@ if __name__ == "__main__":
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))
 
-    summary = (("refereed: {1} / first author: {2} / citations: {3} / "
-               "h-index: {4} ({0})")
-               .format(date.today(), npapers, nfirst, ncitations, hindex))
+
+
+    summary = ("""{1} refereed publications. {2} refeered publications as first author.
+
+               Total citations~=~{3}; h-index~=~{4} ({0})""".format(date.today(), npapers, nfirst, ncitations, hindex))
     with open("pubs_summary.tex", "w") as f:
         f.write(summary)
 
