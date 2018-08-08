@@ -12,9 +12,9 @@ from utf8totex import utf8totex
 __all__ = ["get_papers"]
 
 
-def get_papers(author):
+def get_papers(orcid):
     papers = list(ads.SearchQuery(
-        author=author,
+        orcid=orcid,
         fl=["id", "title", "author", "doi", "year", "pubdate", "pub",
             "volume", "page", "identifier", "doctype", "citation_count",
             "bibcode"],
@@ -58,6 +58,6 @@ def get_papers(author):
 
 
 if __name__ == "__main__":
-    papers = get_papers("Foreman-Mackey")
+    papers = get_papers("0000-0002-8165-2507")
     with open("pubs.json", "w") as f:
         json.dump(papers, f, sort_keys=True, indent=2, separators=(",", ": "))
