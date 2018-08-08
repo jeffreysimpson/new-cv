@@ -1,0 +1,12 @@
+*.pdf
+*.swp
+.DS_Store
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.dvi
+*.ps
+*.eps
+__pycache__
