@@ -3,6 +3,12 @@
 \usepackage{hyperref}
 \usepackage{ifthen}
 
+% LaTeX will typeset using Computer Modern Roman, which a lot of
+% non-mathematicians and non-engineers won't like. Also, a few PDF
+% viewers may not render CMR very well. Instead, Times New Roman can
+% be used. That's what this package does.
+\usepackage{times}
+
 % \usepackage[yyyymmdd]{datetime}
 % \renewcommand{\dateseparator}{-}
 
@@ -25,7 +31,7 @@
 \newcommand{\deemph}[1]{\textcolor{grey}{\footnotesize{#1}}}
 
 % literature links--use doi if you can
-  \newcommand{\doi}[2]{\emph{\href{http://dx.doi.org/#1}{{#2}}}}
+  \newcommand{\doi}[2]{{\href{http://dx.doi.org/#1}{{#2}}}}
   \newcommand{\ads}[2]{\href{http://adsabs.harvard.edu/abs/#1}{{#2}}}
   \newcommand{\isbn}[1]{{\footnotesize(\textsc{isbn:}{#1})}}
   \newcommand{\arxiv}[1]{{\href{http://arxiv.org/abs/#1}{arXiv:{#1}}}}
