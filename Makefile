@@ -1,4 +1,4 @@
-LATEX       = pdflatex
+LATEX       = xelatex
 BASH        = bash -c
 ECHO        = echo
 RM          = rm -rf
