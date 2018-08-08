@@ -11,4 +11,5 @@
 *.eps
 *.ipynb
 *.gz
+.texpadtmp*
 __pycache__
