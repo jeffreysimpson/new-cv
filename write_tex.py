@@ -24,13 +24,13 @@ def format_pub(args):
     ind, pub = args
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
     n = [i for i in range(len(pub["authors"]))
-         if "Foreman-Mackey, D" in pub["authors"][i]][0]
-    pub["authors"][n] = "\\textbf{Foreman-Mackey, Daniel}"
+         if "Simpson, J" in pub["authors"][i]][0]
+    pub["authors"][n] = "\\textbf{Simpson, Jeffrey D.}"
     if len(pub["authors"]) > 5:
         fmt += ", ".join(pub["authors"][:4])
         fmt += ", \etal"
         if n >= 4:
-            fmt += "\\ (incl.\\ \\textbf{DFM})"
+            fmt += "\\ (incl.\\ \\textbf{JDS})"
     elif len(pub["authors"]) > 1:
         fmt += ", ".join(pub["authors"][:-1])
         fmt += ", \\& " + pub["authors"][-1]
@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
     # Compute citation stats
     npapers = len(ref)
-    nfirst = sum(1 for p in pubs if "Foreman-Mackey" in p["authors"][0])
+    nfirst = sum(1 for p in pubs if "Simpson" in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))
