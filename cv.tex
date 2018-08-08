@@ -1,169 +1,444 @@
-% The formatting of this CV is based on @davidwhogg's layout.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%% Simple LaTeX CV Template %%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\documentclass[12pt,letterpaper]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% NOTE: If you find that it says                                     %%
+%%                                                                    %%
+%%                           1 of ??                                  %%
+%%                                                                    %%
+%% at the bottom of your first page, this means that the AUX file     %%
+%% was not available when you ran LaTeX on this source. Simply RERUN  %%
+%% LaTeX to get the ``??'' replaced with the number of the last page  %%
+%% of the document. The AUX file will be generated on the first run   %%
+%% of LaTeX and used on the second run to fill in all of the          %%
+%% references.                                                        %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\input{cvstyle}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%% Document Setup %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{document}\thispagestyle{empty}\sloppy\sloppypar\raggedbottom
+% Don't like 10pt? Try 11pt or 12pt
+\documentclass[10pt]{article}
+\RequirePackage[T1]{fontenc}
+% LaTeX will typeset using Computer Modern Roman, which a lot of
+% non-mathematicians and non-engineers won't like. Also, a few PDF
+% viewers may not render CMR very well. Instead, Times New Roman can
+% be used. That's what this package does.
+\usepackage{times}
+\usepackage{fancyhdr,lastpage}
+\usepackage{color,hyperref}
+% This is a helpful package that puts math inside length specifications
+\usepackage{calc}
+% This package helps LaTeX auto-hyphenate hyphenated words if you use
+% special hyphens. For example, bio\-/mimicry will properly hyphenate
+% ``mimicry'' if necessary.
+\usepackage[shortcuts]{extdash}
+% Provides special list environments and macros to create new ones
+\usepackage[shortlabels]{enumitem}
 
-\textbf{\Large Daniel Foreman-Mackey} \hfill
-\textsf{\small foreman.mackey@gmail.com, http://dfm.io} \\[0.5ex]
-Associate Research Scientist, Center for Computational Astronomy, Flatiron Institute\\[0.5ex]
+% Layout: Puts the section titles on left side of page
+\reversemarginpar
 
-\cvheading{Education}
+% Text formatting.
+\newcommand{\foreign}[1]{\textit{#1}}
+\newcommand{\etal}{\foreign{et~al.}}
+\newcommand{\project}[1]{\textsl{#1}}
+\definecolor{grey}{rgb}{0.5,0.5,0.5}
+\newcommand{\deemph}[1]{\textcolor{grey}{\footnotesize{#1}}}
+
+%
+%         PAPER SIZE, PAGE NUMBER, AND DOCUMENT LAYOUT NOTES:
+%
+% The next \usepackage line changes the layout for CV style section
+% headings as marginal notes. It also sets up the paper size as either
+% letter or A4. By default, letter was used. If A4 paper is desired,
+% comment out the letterpaper lines and uncomment the a4paper lines.
+%
+% As you can see, the margin widths and section title widths can be
+% easily adjusted.
+%
+% ALSO: Notice that the includefoot option can be commented OUT in order
+% to put the PAGE NUMBER *IN* the bottom margin. This will make the
+% effective text area larger.
+%
+% IF YOU WISH TO REMOVE THE ``of LASTPAGE'' next to each page number,
+% see the note about the +LP and -LP lines below. Comment out the +LP
+% and uncomment the -LP.
+%
+% IF YOU WISH TO REMOVE PAGE NUMBERS, be sure that the includefoot line
+% is uncommented and ALSO uncomment the \pagestyle{empty} a few lines
+% below.
+%
+
+%% Use these lines for letter-sized paper
+%\usepackage[paper=letterpaper,
+%            %includefoot, % Uncomment to put page number above margin
+%            marginparwidth=1.2in,     % Length of section titles
+%            marginparsep=.05in,       % Space between titles and text
+%            margin=1in,               % 1 inch margins
+%            includemp]{geometry}
+
+%% Use these lines for A4-sized paper
+\usepackage[paper=a4paper,
+            %includefoot, % Uncomment to put page number above margin
+            marginparwidth=30.5mm,    % Length of section titles
+            marginparsep=1.5mm,       % Space between titles and text
+            margin=25mm,              % 25mm margins
+            includemp]{geometry}
+
+%% More layout: Get rid of indenting throughout entire document
+\setlength{\parindent}{0in}
+
+% Set up the custom unordered list.
+\newcounter{refpubnum}
+\newcommand{\cvlist}{}
+
+\definecolor{numcolor}{rgb}{0.5,0.5,0.5}
+
+\usepackage{xpatch}%
+\newcommand\mnras{MNRAS}
+\newcommand\mnrasl{MNRASL}
+\newcommand\apjs{ApJS}
+\newcommand\aj{AJ}                   % Astronomical Journal (the)
+\newcommand{\doi}[2]{{\href{http://dx.doi.org/#1}{{#2}}}}
+\newcommand{\ads}[2]{\href{http://adsabs.harvard.edu/abs/#1}{{#2}}}
+\newcommand{\isbn}[1]{{\footnotesize(\textsc{isbn:}{#1})}}
+\newcommand{\arxiv}[1]{{\href{http://arxiv.org/abs/#1}{arXiv:{#1}}}}
+
+
+\pagestyle{fancy}
+%\pagestyle{empty}      % Uncomment this to get rid of page numbers
+\fancyhf{}\renewcommand{\headrulewidth}{0pt}
+\fancyfootoffset{\marginparsep+\marginparwidth}
+\newlength{\footpageshift}
+\setlength{\footpageshift}
+          {0.5\textwidth+0.5\marginparsep+0.5\marginparwidth-2in}
+\lfoot{\hspace{\footpageshift}%
+       \parbox{4in}{\, \hfill %
+                    \arabic{page} of \protect\pageref*{LastPage} % +LP
+%                    \arabic{page}                               % -LP
+                    \hfill \,}}
+
+% Finally, give us PDF bookmarks
+
+\definecolor{darkblue}{rgb}{0.0,0.0,0.3}
+\hypersetup{colorlinks,breaklinks,
+            linkcolor=darkblue,urlcolor=darkblue,
+            anchorcolor=darkblue,citecolor=darkblue}
+
+%%%%%%%%%%%%%%%%%%%%%%%% End Document Setup %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%% Helper Commands %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% HEADING AT TOP OF CURRICULUM VITAE
+
+% The title (name) with a horizontal rule under it
+% (optional argument typesets an object right-justified across from name
+%  as well)
+%
+% Usage: \makeheading{name}
+%        OR
+%        \makeheading[right_object]{name}
+%
+% Place at top of document. It should be the first thing.
+% If ``right_object'' is provided in the square-braced optional
+% argument, it will be right justified on the same line as ``name'' at
+% the top of the CV. For example:
+%
+%       \makeheading[\emph{Curriculum vitae}]{Your Name}
+%
+% will put an emphasized ``Curriculum vitae'' at the top of the document
+% as a title. Likewise, a picture could be included:
+%
+%   \makeheading[{\includegraphics[height=1.5in]{my_picture}}]{Your Name}
+%
+% the picture will be flush right across from the name. For this example
+% to work, make sure the extra set of curly braces is included. Also
+% makes ure that \usepackage{graphicx} is somewhere in the preamble.
+\newcommand{\makeheading}[2][]%
+        {\hspace*{-\marginparsep minus \marginparwidth}%
+         \begin{minipage}[t]{\textwidth+\marginparwidth+\marginparsep}%
+             {\large \bfseries #2 \hfill #1}\\[-0.15\baselineskip]%
+                 \rule{\columnwidth}{1pt}%
+         \end{minipage}}
+
+%%% SECTION HEADINGS
+
+% The section headings. Flush left in small caps down pseudo-margin.
+%
+% Usage: \section{section name}
+\renewcommand{\section}[1]{\pagebreak[3]%
+    \vspace{1.3\baselineskip}%
+    \phantomsection\addcontentsline{toc}{section}{#1}%
+    \noindent\llap{\scshape\smash{\parbox[t]{\marginparwidth}{\hyphenpenalty=10000\raggedright #1}}}%
+    \vspace{-\baselineskip}\par}
+
+%%% LISTS
+
+% This macro alters a list by removing some of the space that follows the list
+% (is used by lists below)
+\newcommand*\fixendlist[1]{%
+    \expandafter\let\csname preFixEndListend#1\expandafter\endcsname\csname end#1\endcsname
+    \expandafter\def\csname end#1\endcsname{\csname preFixEndListend#1\endcsname\vspace{-0.6\baselineskip}}}
+
+% These macros help ensure that items in outer-type lists do not get
+% separated from the next line by a page break
+% (they are used by lists below)
+\let\originalItem\item
+\newcommand*\fixouterlist[1]{%
+    \expandafter\let\csname preFixOuterList#1\expandafter\endcsname\csname #1\endcsname
+    \expandafter\def\csname #1\endcsname{\let\oldItem\item\def\item{\pagebreak[2]\oldItem}\csname preFixOuterList#1\endcsname}
+    \expandafter\let\csname preFixOuterListend#1\expandafter\endcsname\csname end#1\endcsname
+    \expandafter\def\csname end#1\endcsname{\let\item\oldItem\csname preFixOuterListend#1\endcsname}}
+\newcommand*\fixinnerlist[1]{%
+    \expandafter\let\csname preFixInnerList#1\expandafter\endcsname\csname #1\endcsname
+    \expandafter\def\csname #1\endcsname{\let\oldItem\item\let\item\originalItem\csname preFixInnerList#1\endcsname}
+    \expandafter\let\csname preFixInnerListend#1\expandafter\endcsname\csname end#1\endcsname
+    \expandafter\def\csname end#1\endcsname{\csname preFixInnerListend#1\endcsname\let\item\oldItem}}
+
+% An itemize-style list with lots of space between items
+%
+% Usage:
+%   \begin{outerlist}
+%       \item ...    % (or \item[] for no bullet)
+%   \end{outerlist}
+\newlist{outerlist}{itemize}{3}
+    \setlist[outerlist]{label=\enskip\textbullet,leftmargin=*}
+    \fixendlist{outerlist}
+    \fixouterlist{outerlist}
+
+% An environment IDENTICAL to outerlist that has better pre-list spacing
+% when used as the first thing in a \section
+%
+% Usage:
+%   \begin{lonelist}
+%       \item ...    % (or \item[] for no bullet)
+%   \end{lonelist}
+\newlist{lonelist}{itemize}{3}
+    \setlist[lonelist]{label=\enskip\textbullet,leftmargin=*,partopsep=0pt,topsep=0pt}
+    \fixendlist{lonelist}
+    \fixouterlist{lonelist}
+
+% An itemize-style list with little space between items
+%
+% Usage:
+%   \begin{innerlist}
+%       \item ...    % (or \item[] for no bullet)
+%   \end{innerlist}
+\newlist{innerlist}{itemize}{3}
+    \setlist[innerlist]{label=\enskip\textbullet,leftmargin=*,parsep=0pt,itemsep=0pt,topsep=0pt,partopsep=0pt}
+    \fixinnerlist{innerlist}
+
+% An environment IDENTICAL to innerlist that has better pre-list spacing
+% when used as the first thing in a \section
+%
+% Usage:
+%   \begin{loneinnerlist}
+%       \item ...    % (or \item[] for no bullet)
+%   \end{loneinnerlist}
+\newlist{loneinnerlist}{itemize}{3}
+    \setlist[loneinnerlist]{label=\enskip\textbullet,leftmargin=*,parsep=0pt,itemsep=0pt,topsep=0pt,partopsep=0pt}
+    \fixendlist{loneinnerlist}
+    \fixinnerlist{loneinnerlist}
+
+%%% EXTRA SPACE
+
+% To add some paragraph space between lines.
+% This also tells LaTeX to preferably break a page on one of these gaps
+% if there is a needed pagebreak nearby.
+\newcommand{\blankline}{\quad\pagebreak[3]}
+\newcommand{\halfblankline}{\quad\vspace{-0.5\baselineskip}\pagebreak[3]}
+
+%%% FORMATTING MACROS
+\usepackage{url}
+
+% You can adjust the style \url{} uses here:
+% (options are: same, rm, sf, tt; defaults to tt)
+\urlstyle{same}
+
+% For \email{ADDRESS}, links ADDRESS to the url mailto:ADDRESS
+% (uncomment to typeset the e\-/mail address in typewriter font;
+%  otherwise, will be typeset in the \urlstyle above)
+%\DeclareUrlCommand\emaillink{\urlstyle{tt}}
+\providecommand*\emaillink[1]{\nolinkurl{#1}}
+\providecommand*\email[1]{\href{mailto:#1}{\emaillink{#1}}}
+
+\providecommand\BibTeX{{B\kern-.05em{\sc i\kern-.025em b}\kern-.08em \TeX}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%% End Helper Commands %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%% Begin CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\makeheading{Dr.~Jeffrey~D.~Simpson\\Curriculum vitae}
+
+\section{Contact Information}
+
+% NOTE: Mind where the & separators and \\ breaks are in the following
+%       table. Table is one row made up of three parboxes. The left
+%       parbox has address info, the middle parbox has a vertical bar,
+%       and the right parbox has phone and electronic contact
+%       information.
+%
+% MACROS: \rcollength is the width of the right column of the table
+%             (adjust it to your liking; default is 1.85in).
+%         \spacewidth is width of area between left and right boxes.
+%
+\newlength{\rcollength}\setlength{\rcollength}{2.3in}%
+\newlength{\spacewidth}\setlength{\spacewidth}{10pt}
+%
+\begin{tabular}[t]{@{}p{\textwidth-\rcollength-\spacewidth}@{}p{\spacewidth}@{}p{\rcollength}}%
+
+% Address box
+\parbox{\textwidth-\rcollength-\spacewidth}{%
+School of Physics\\
+\href{http://www.unsw.edu.au/}{University of New South Wales}\\
+Sydney NSW Australia}
+
+&
+% Uncomment to add a vertical bar in middle of contact information
+% {\vrule width 0.5pt}
+\parbox[m][5\baselineskip]{\spacewidth}{} &
+
+% Non-snail-mail contact information
+\parbox{\rcollength}{%
+% (02) 9372 4838 \\
+\email{jeffrey.simpson@unsw.edu.au}}
+\end{tabular}
+
+\section{Education}
+
+\textbf{Ph.D. in Astronomy},
+\href{http://www.canterbury.ac.nz/}{University of Canterbury}
+New Zealand,
+             \hfill 2014
+
+\textbf{M.Sc. in Astronomy},
+\href{http://www.canterbury.ac.nz/}{University of Canterbury}
+New Zealand,
+             \hfill 2009
+
+\section{Current Employment}
+
+\textbf{Post-Doctoral Research Fellow},
+            University of New South Wales
+            \hfill {2018}
+
+\vspace{0.1in}
+
+\section{Previous Employment}
+
+\textbf{Research Fellow},
+            Australian Astronomical Observatory
+            \hfill {2015 to 2018}
+
+\textbf{Research Fellow},
+            Macquarie University
+            \hfill {2013 to 2015}
+
+\vspace{0.1in}
+
+\section{Refereed Publications}
+\input{pubs_summary}
 \begin{list}{}{\cvlist}
-\item
-PhD 2015, Department of Physics, New York University. Advisor: Hogg
-\item
-MSc 2010, Department of Physics, Queen's University, Canada. Advisor: Widrow
-\item
-BSc 2008, Department of Physics, McGill University, Canada.
+\input{pubs_ref}
 \end{list}
 
-\cvheading{Positions}
+\section{Preprints}
 \begin{list}{}{\cvlist}
-\item
-Associate Research Scientist, Flatiron Institute, 2017--present.
-\item
-Sagan Postdoctoral Fellow, University of Washington, 2015--2017.
+\input{pubs_unref}
 \end{list}
 
-\ifdefined\withpubs
-    %\cvheading{Publications}
-    %\input{pubs_summary}
+\section{Competitive observing proposals}
 
-    \cvheading{Refereed publications}
-    \begin{list}{}{\cvlist}
-    \input{pubs_ref}
-    \end{list}
+\textbf{Anglo-Australian Telescope}
+\begin{innerlist}
+\item[] Co-I: Dynamical Studies of DES Stellar Streams (10 nights) \hfill{18B}
+\item[] Co-I: The HERMES-TESS program (8 nights) \hfill{18B}
+\item[] Co-I: Open clusters with HERMES (5 nights) \hfill{18A}
+\item[] Co-I: Open clusters with HERMES (13 nights) \hfill{17B}
+\item[] Co-I: How Extended is the Stellar Envelope of NGC5694? (6 hours) \hfill{17A}
+\item[] Co-I: The GALAH Survey: Phase 2 (35 nights/semester) \hfill{17A--17B}
+\item[] Co-I: The HERMES K2-follow-up program \\ (12 nights/semester)  \hfill{16A--17B}
+\item[] \textbf{PI}: Probing the low mass regime of globular clusters (6 hours) \hfill{16A}
+\item[] Co-I: The GALAH Survey (35 nights/semester) \hfill{15A--16B}
+\end{innerlist}
+\vspace{0.1in}
+\textbf{Keck Observatory}
+\begin{innerlist}
+\item[] \textbf{PI}: ESO452: Exploring self-enrichment in low mass stellar clusters\\ (0.5 nights)  \hfill{17A}
+\end{innerlist}
 
-    \cvheading{Preprints \& white papers}
-    \begin{list}{}{\cvlist}
-    \input{pubs_unref}
-    \end{list}
-\fi
+% \section{Invited talks}
+% \printbibliography[keyword={invitedtalk},heading=none,resetnumbers=true]
+%
+% \section{Contributed conference talks}
+% \printbibliography[keyword={talk},heading=none,resetnumbers=true]
+%
+% \section{Conference posters}
+% \printbibliography[keyword={poster},heading=none,resetnumbers=true]
 
-\cvheading{Selected invited talks \& tutorials}
-\begin{list}{}{\cvlist}
+\section{Conference Activity}
+Organized the 2017 Southern Cross Astrophysics Conference on ``Surveying the Cosmos, The Science From Massively Multiplexed Surveys''
 
-\item \emph{A practical introduction to Gaussian Processes for astronomy},
-    2017, Invited Talk, Statistical Challenges in Astrophysics,
-    University of New South Wales, Australia.
+\section{Service To Profession}
 
-\item \emph{Data-driven discovery in the astronomical time domain},
-    2017, Interdisciplinary Colloquium, CIERA, Northwestern University.
+Referee for articles in PASA and A\&A
 
-\item \emph{Long-period transiting planets \& their population},
-    2016, Invited talk, Exoplanets I, Davos.
+\vspace{0.1in}
 
-\item \emph{Long-period transiting planets \& their population},
-    2016, Invited talk, Statistical Challenges of Modern Astrophysics,
-    Carnegie Mellon.
-
-\item \emph{Long-period transiting planets \& their population}, 2016,
-    Colloquium, Villanova.
-
-\item \emph{Scalable Gaussian processes \& the search for transiting
-    exoplanets}, 2015, Data Science at the LHC, CERN, Geneva.
-
-\item \emph{Discovery \& characterization of transiting exoplanets \& their
-    population}, 2015, Colloquium, University of Washington.
-
-\item \emph{Hierarchical inference for exoplanet population inference},
-    2015, IAU Symposium, Honolulu.
-
-\item \emph{Data-driven models}, 2015, Extreme precision radial velocities,
-    Yale.
-
-\item \emph{Population inference from noisy \& incomplete catalogs}, 2015,
-    Local Group Astrostatistics, University of Michigan.
-
-\item \emph{Time series analysis, Gaussian Processes, and the search for
-            exo-Earths},
-    2014, PyData NYC conference, New York.
-
-\item \emph{Introduction to Gaussian Processes, probabilistic graphical
-            models, and deep learning},
-    2014, Astro Hack Week, University of Washington.
-
-\item \emph{An astronomer's introduction to Gaussian processes},
-    2014, Bayesian Computing for Astronomical Data Analysis (Summer school at
-    Penn State University).
-
-\end{list}
-
-\cvheading{Popular open-source software}
-\begin{list}{}{\cvlist}
-
-\item {\bf emcee} ---
-    MCMC sampling in Python. Popular in astronomy;
-    the paper has over 1000 citations.
-    \url{emcee.readthedocs.io}
-
-\item {\bf george} ---
-    Blazingly fast Gaussian processes for regression. Implemented in C++ and
-    Python bindings. Joint work with applied mathematicians at NYU.
-    \url{george.readthedocs.io}
-
-\item {\bf celerite} ---
-    Scalable computations for Gaussian process regression for one-dimensional
-    problems.
-    \url{celerite.readthedocs.io}
-
-\item {\bf corner.py} ---
-    Simple corner plots (or scatterplot matrices) in Python.
-    \url{corner.readthedocs.io}
-
-\end{list}
-
-\cvheading{Grants}
-\begin{list}{}{\cvlist}
-\item
-NSF-AAG (PI: Agol),
-\emph{Collaborative Research: Masses and architectures of (potentially
-    habitable) exoplanet systems},
-\$491,950, 2016--2018
-\item
-K2 Guest Observer -- Cycle 3 (PI: Penny),
-\emph{Free-Floating and Bound Planet Mass Measurements with K2: Ground- and
-Space-Based Photometry, Event Detection and Modeling},
-\$84,000, 2016--2017
-\item
-K2 Guest Observer -- Cycle 3 (PI: Hogg),
-\emph{Ultra-precise photometry in crowded fields: A self-calibration
-approach},
-\$100,000, 2016--2017
-\item
-XSEDE (PI: Foreman-Mackey),
-\emph{A systematic search for transiting exoplanets using K2},
-100,000 CPU hours, 2015--2016
-\end{list}
+Referee for research funding proposal for Polish National Science Centre
 
 
-\cvheading{Honors}
-\begin{list}{}{\cvlist}
+\section{References Available to Contact}
 
-\item Kavli Fellow, 2015.
-\item Sagan Postdoctoral Fellowship, 2015--present.
-\item James Arthur Graduate Fellowship, 2014.
-\item Horizon Fellowship in the Natural \& Physical Sciences, 2012.
-\item Henry M. MacCracken Fellowship, 2010.
-\item NSERC Undergraduate Summer Research Award, 2007.
+\href
+{https://rsaa.anu.edu.au/people/academics/dr-chris-lidman}
+{\textbf{Chris Lidman}}
+%
+\begin{innerlist}
+   \item \href{mailto:christopher.lidman@anu.edu.au}{christopher.lidman@anu.edu.au}
+   \item (02) 6125 0238
+   \item Research School of Astronomy \& Astrophysics Mount Stromlo Observatory Cotter Road Weston Creek, ACT 2611 Australia
+\end{innerlist}
 
-\end{list}
+\halfblankline
 
-% \ifdefined\withpubs
-%     \newpage
-% \fi
-
-\cvheading{Professional service \& activities}
-\begin{list}{}{\cvlist}
-\item MAST Users Group --- Chair
-\item Active Referee ---
-    AAS Journals,
-    MNRAS,
-    Journal of Statistical Software,
-    Journal of Open Source Software
-\end{list}
+\href
+{https://rsaa.anu.edu.au/people/academics/dr-chris-lidman}
+{\textbf{Gary Da Costa}}
+\begin{innerlist}
+  \item \href{mailto:gary.dacosta@anu.edu.au}{gary.dacosta@anu.edu.au}
+  \item (02) 6125 8913
+   \item Research School of Astronomy \& Astrophysics Mount Stromlo Observatory Cotter Road Weston Creek, ACT 2611 Australia
+\end{innerlist}
 
 \end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% End CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------%
+% The following is copyright and licensing information for
+% redistribution of this LaTeX source code; it also includes a liability
+% statement. If this source code is not being redistributed to others,
+% it may be omitted. It has no effect on the function of the above code.
+%----------------------------------------------------------------------%
+% Copyright (c) 2007, 2008, 2009, 2010, 2011 by Theodore P. Pavlic
+%
+% Unless otherwise expressly stated, this work is licensed under the
+% Creative Commons Attribution-Noncommercial 3.0 United States License. To
+% view a copy of this license, visit
+% http://creativecommons.org/licenses/by-nc/3.0/us/ or send a letter to
+% Creative Commons, 171 Second Street, Suite 300, San Francisco,
+% California, 94105, USA.
+%
+% THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+% OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+% MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+% IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+% CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+% TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+% SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+%----------------------------------------------------------------------%
