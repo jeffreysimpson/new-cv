@@ -9,4 +9,6 @@
 *.dvi
 *.ps
 *.eps
+*.ipynb
+*.gz
 __pycache__
