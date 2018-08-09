@@ -1,5 +1,10 @@
 [![Build Status](https://travis-ci.org/jeffreysimpson/new-cv.svg?branch=master)](https://travis-ci.org/jeffreysimpson/cv) [![Latest PDF](https://img.shields.io/badge/PDF-latest-orange.svg)](https://github.com/jeffreysimpson/new-cv/blob/master-pdf/cv.pdf) 
 
-My automatically generated LaTeX CV based on [@davidwhogg](https://github.com/davidwhogg)'s format.
+My CV.
 
-Licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/)
+Copyright 2018 Jeffrey Simpson
+
+## Acknowledgements
+
+* Code to create publication list and continuous integration are from [Dan Foreman-Mackey's CV](https://github.com/dfm/cv) (CC-BY 4.0)
+* CV stylings are from [Ted Pavlic](http://www.tedpavlic.com/post_resume_cv_latex_example.php) (CC BY-NC 3.0 US)
