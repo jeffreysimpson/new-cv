@@ -26,10 +26,10 @@ def format_pub(args):
     n = [i for i in range(len(pub["authors"]))
          if "Simpson, J" in pub["authors"][i]][0]
     pub["authors"][n] = "\\textbf{Simpson, Jeffrey D.}"
-    if len(pub["authors"]) > 5:
-        fmt += ", ".join(pub["authors"][:4])
+    if len(pub["authors"]) > 4:
+        fmt += ", ".join(pub["authors"][:3])
         fmt += ", \etal"
-        if n >= 4:
+        if n >= 3:
             fmt += "\\ (incl.\\ \\textbf{JDS})"
     elif len(pub["authors"]) > 1:
         fmt += ", ".join(pub["authors"][:-1])
