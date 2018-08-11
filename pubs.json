@@ -53,7 +53,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2018-08-00",
     "title": "The GALAH Survey: second data release",
-    "url": "http://adsabs.harvard.edu/abs/2018MNRAS.478.4513B",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.478.4513B",
     "volume": "478",
     "year": "2018"
   },
@@ -69,7 +69,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2018-07-00",
     "title": "The most metal-poor Galactic globular cluster: the first spectroscopic observations of ESO280-SC06",
-    "url": "http://adsabs.harvard.edu/abs/2018MNRAS.477.4565S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.477.4565S",
     "volume": "477",
     "year": "2018"
   },
@@ -101,14 +101,14 @@
       "Ting, Yuan-Sen",
       "Traven, Gregor"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
     "pub": "ArXiv e-prints",
     "pubdate": "2018-07-00",
     "title": "The GALAH Survey and Gaia DR2: (Non)existence of five sparse high-latitude open clusters",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180700822K",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180700822K",
     "volume": null,
     "year": "2018"
   },
@@ -149,14 +149,14 @@
       "Wittenmyer, Rob",
       "Wyse, Rosemary"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/sty865",
     "page": 228,
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2018-07-00",
     "title": "The GALAH survey: stellar streams and how stellar velocity distributions vary with Galactic longitude, hemisphere, and metallicity",
-    "url": "http://adsabs.harvard.edu/abs/2018MNRAS.478..228Q",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.478..228Q",
     "volume": "478",
     "year": "2018"
   },
@@ -200,7 +200,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2018-06-00",
     "title": "The GALAH survey: properties of the Galactic disc(s) in the solar neighbourhood",
-    "url": "http://adsabs.harvard.edu/abs/2018MNRAS.476.5216D",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.476.5216D",
     "volume": "476",
     "year": "2018"
   },
@@ -238,7 +238,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2018-04-00",
     "title": "The GALAH Survey: Velocity fluctuations in the Milky Way using red clump giants",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180407217K",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180407217K",
     "volume": null,
     "year": "2018"
   },
@@ -290,7 +290,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2018-04-00",
     "title": "The GALAH Survey: Accurate Radial Velocities and Library of Observed Stellar Template Spectra",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180406344Z",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180406344Z",
     "volume": null,
     "year": "2018"
   },
@@ -339,7 +339,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2018-04-00",
     "title": "The GALAH survey: An abundance, age, and kinematic inventory of the solar neighbourhood made with TGAS",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180405869B",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180405869B",
     "volume": null,
     "year": "2018"
   },
@@ -375,7 +375,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2018-04-00",
     "title": "Holistic spectroscopy: Complete reconstruction of a wide-field, multi-object spectroscopic image using a photonic comb",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180405851K",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180405851K",
     "volume": null,
     "year": "2018"
   },
@@ -417,7 +417,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2018-04-00",
     "title": "The GALAH survey: Co-orbiting stars and chemical tagging",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180405894S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180405894S",
     "volume": null,
     "year": "2018"
   },
@@ -459,7 +459,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2018-04-00",
     "title": "The GALAH and TESS-HERMES surveys: high-resolution spectroscopy of luminous supergiants in the Magellanic Clouds and Bridge",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180405900S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180405900S",
     "volume": null,
     "year": "2018"
   },
@@ -505,7 +505,7 @@
     "pub": "ArXiv e-prints",
     "pubdate": "2018-04-00",
     "title": "The GALAH Survey: Verifying abundance trends in the open cluster M67 using non-LTE spectroscopy",
-    "url": "http://adsabs.harvard.edu/abs/2018arXiv180406394G",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180406394G",
     "volume": null,
     "year": "2018"
   },
@@ -549,7 +549,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2018-02-00",
     "title": "The GALAH survey: chemical tagging of star clusters and new members in the Pleiades",
-    "url": "http://adsabs.harvard.edu/abs/2018MNRAS.473.4612K",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.473.4612K",
     "volume": "473",
     "year": "2018"
   },
@@ -598,7 +598,7 @@
     "pub": "The Astronomical Journal",
     "pubdate": "2018-02-00",
     "title": "The K2-HERMES Survey. I. Planet-candidate Properties from K2 Campaigns 1--3",
-    "url": "http://adsabs.harvard.edu/abs/2018AJ....155...84W",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018AJ....155...84W",
     "volume": "155",
     "year": "2018"
   },
@@ -638,7 +638,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2018-01-00",
     "title": "The TESS-HERMES survey data release 1: high-resolution spectroscopy of the TESS southern continuous viewing zone",
-    "url": "http://adsabs.harvard.edu/abs/2018MNRAS.473.2004S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.473.2004S",
     "volume": "473",
     "year": "2018"
   },
@@ -658,7 +658,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2017-12-00",
     "title": "ESO 452-SC11: the lowest mass globular cluster with a potential chemical inhomogeneity",
-    "url": "http://adsabs.harvard.edu/abs/2017MNRAS.472.2856S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.472.2856S",
     "volume": "472",
     "year": "2017"
   },
@@ -682,7 +682,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2017-11-00",
     "title": "Siriusly, a newly identified intermediate-age Milky Way stellar cluster: a spectroscopic study of Gaia 1",
-    "url": "http://adsabs.harvard.edu/abs/2017MNRAS.471.4087S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.471.4087S",
     "volume": "471",
     "year": "2017"
   },
@@ -724,7 +724,7 @@
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2017-04-00",
     "title": "VizieR Online Data Catalog: GALAH semi-automated classification scheme (Traven+, 2017)",
-    "url": "http://adsabs.harvard.edu/abs/2017yCat..22280024T",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017yCat..22280024T",
     "volume": null,
     "year": "2017"
   },
@@ -773,7 +773,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2017-03-00",
     "title": "The GALAH survey: observational overview and Gaia DR1 companion",
-    "url": "http://adsabs.harvard.edu/abs/2017MNRAS.465.3203M",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.465.3203M",
     "volume": "465",
     "year": "2017"
   },
@@ -791,7 +791,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2017-02-00",
     "title": "A broad perspective on multiple abundance populations in the globular cluster NGC 1851",
-    "url": "http://adsabs.harvard.edu/abs/2017MNRAS.465.1123S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.465.1123S",
     "volume": "465",
     "year": "2017"
   },
@@ -833,7 +833,7 @@
     "pub": "The Astrophysical Journal Supplement Series",
     "pubdate": "2017-02-00",
     "title": "The Galah Survey: Classification and Diagnostics with t-SNE Reduction of Spectral Information",
-    "url": "http://adsabs.harvard.edu/abs/2017ApJS..228...24T",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017ApJS..228...24T",
     "volume": "228",
     "year": "2017"
   },
@@ -880,7 +880,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2017-01-00",
     "title": "The GALAH survey: the data reduction pipeline",
-    "url": "http://adsabs.harvard.edu/abs/2017MNRAS.464.1259K",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.464.1259K",
     "volume": "464",
     "year": "2017"
   },
@@ -902,7 +902,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2016-07-00",
     "title": "An extreme paucity of second population AGB stars in the `normal' globular cluster M4",
-    "url": "http://adsabs.harvard.edu/abs/2016MNRAS.460L..69M",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2016MNRAS.460L..69M",
     "volume": "460",
     "year": "2016"
   },
@@ -931,7 +931,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2016-06-00",
     "title": "The GALAH survey: relative throughputs of the 2dF fibre positioner and the HERMES spectrograph from stellar targets",
-    "url": "http://adsabs.harvard.edu/abs/2016MNRAS.459.1069S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2016MNRAS.459.1069S",
     "volume": "459",
     "year": "2016"
   },
@@ -1009,7 +1009,7 @@
     "pub": "Journal of Astronomical Telescopes, Instruments, and Systems",
     "pubdate": "2015-07-00",
     "title": "First light results from the High Efficiency and Resolution Multi-Element Spectrograph at the Anglo-Australian Telescope",
-    "url": "http://adsabs.harvard.edu/abs/2015JATIS...1c5002S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2015JATIS...1c5002S",
     "volume": "1",
     "year": "2015"
   },
@@ -1071,7 +1071,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2015-05-00",
     "title": "The GALAH survey: scientific motivation",
-    "url": "http://adsabs.harvard.edu/abs/2015MNRAS.449.2604D",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2015MNRAS.449.2604D",
     "volume": "449",
     "year": "2015"
   },
@@ -1088,7 +1088,7 @@
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2014-07-00",
     "title": "VizieR Online Data Catalog: Abundances of 848 giants of {\\ensuremath{\\omega}} Cen (Simpson+, 2013)",
-    "url": "http://adsabs.harvard.edu/abs/2014yCat..74331892S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2014yCat..74331892S",
     "volume": null,
     "year": "2014"
   },
@@ -1154,7 +1154,7 @@
     "pub": "Ground-based and Airborne Instrumentation for Astronomy V",
     "pubdate": "2014-07-00",
     "title": "First light results from the Hermes spectrograph at the AAT",
-    "url": "http://adsabs.harvard.edu/abs/2014SPIE.9147E..0YS",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2014SPIE.9147E..0YS",
     "volume": "9147",
     "year": "2014"
   },
@@ -1171,7 +1171,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2013-08-00",
     "title": "Spectral matching for abundances of 848 stars of the giant branches of the globular cluster {\\ensuremath{\\omega}} Centauri",
-    "url": "http://adsabs.harvard.edu/abs/2013MNRAS.433.1892S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2013MNRAS.433.1892S",
     "volume": "433",
     "year": "2013"
   },
@@ -1189,7 +1189,7 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2012-12-00",
     "title": "Spectral matching for abundances and clustering analysis of stars on the giant branches of {\\ensuremath{\\omega}} Centauri",
-    "url": "http://adsabs.harvard.edu/abs/2012MNRAS.427.1153S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2012MNRAS.427.1153S",
     "volume": "427",
     "year": "2012"
   },
@@ -1207,7 +1207,7 @@
     "pub": "VizieR Online Data Catalog",
     "pubdate": "2012-09-00",
     "title": "VizieR Online Data Catalog: Stellar parameters of giants in {\\ensuremath{\\omega}} Cen (Simpson+, 2012)",
-    "url": "http://adsabs.harvard.edu/abs/2012yCat..74271153S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2012yCat..74271153S",
     "volume": null,
     "year": "2012"
   },
@@ -1223,7 +1223,7 @@
     "pub": "Nuclei in the Cosmos (NIC XII)",
     "pubdate": "2012-00-00",
     "title": "Carbon, nitrogen and barium abundances of giant branch stars of {\\ensuremath{\\alpha}} Centauri using spectral matching",
-    "url": "http://adsabs.harvard.edu/abs/2012nuco.confE.232S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2012nuco.confE.232S",
     "volume": null,
     "year": "2012"
   },
@@ -1241,7 +1241,7 @@
     "pub": "Nuclei in the Cosmos",
     "pubdate": "2010-00-00",
     "title": "Neutron-capture element abundances in the globular clusters: 47 Tuc, NGC 6388 and NGC 362",
-    "url": "http://adsabs.harvard.edu/abs/2010nuco.confE.201W",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2010nuco.confE.201W",
     "volume": null,
     "year": "2010"
   }
