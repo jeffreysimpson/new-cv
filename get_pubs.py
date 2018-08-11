@@ -52,7 +52,7 @@ def get_papers(orcid):
             arxiv=aid[0] if len(aid) else None,
             citations=(paper.citation_count
                        if paper.citation_count is not None else 0),
-            url="http://adsabs.harvard.edu/abs/" + paper.bibcode,
+            url="https://ui.adsabs.harvard.edu/#abs/" + paper.bibcode,
         ))
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
 
