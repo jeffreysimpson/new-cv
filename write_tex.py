@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
     # Compute citation stats
     npapers = len(ref)
-    nfirst = sum(1 for p in pubs if "Simpson" in p["authors"][0])
+    nfirst = sum(1 for p in ref if "Simpson" in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))
