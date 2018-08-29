@@ -54,7 +54,7 @@ def format_pub(args):
     if pub["page"] is not None:
         fmt += ", {0}".format(pub["page"])
 
-    if pub["arxiv"] is not None:
+    if (pub["doi"] is None) & (pub["arxiv"] is not None):
         fmt += " (\\arxiv{{{0}}})".format(pub["arxiv"])
 
     if pub["citations"] > 1:
