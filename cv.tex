@@ -85,7 +85,7 @@
 %% Use these lines for A4-sized paper
 \usepackage[paper=a4paper,
             %includefoot, % Uncomment to put page number above margin
-            marginparwidth=30.5mm,    % Length of section titles
+            marginparwidth=0.mm,    % Length of section titles
             marginparsep=1.5mm,       % Space between titles and text
             margin=25mm,              % 25mm margins
             includemp]{geometry}
@@ -171,12 +171,12 @@
 
 % The section headings. Flush left in small caps down pseudo-margin.
 %
-% Usage: \section{section name}
-\renewcommand{\section}[1]{\pagebreak[3]%
-    \vspace{1.3\baselineskip}%
-    \phantomsection\addcontentsline{toc}{section}{#1}%
-    \noindent\llap{\scshape\smash{\parbox[t]{\marginparwidth}{\hyphenpenalty=10000\raggedright #1}}}%
-    \vspace{-\baselineskip}\par}
+% Usage: \subsection*{section name}
+%\renewcommand{\subsection*}[1]{\pagebreak[3]%
+%    \vspace{1.3\baselineskip}%
+%    \phantomsection\addcontentsline{toc}{section}{#1}%
+%    \noindent\llap{\scshape\smash{\parbox[t]{\marginparwidth}{\hyphenpenalty=10000\raggedright #1}}}%
+%    \vspace{-\baselineskip}\par}
 
 %%% LISTS
 
@@ -213,7 +213,7 @@
     \fixouterlist{outerlist}
 
 % An environment IDENTICAL to outerlist that has better pre-list spacing
-% when used as the first thing in a \section
+% when used as the first thing in a \subsection*
 %
 % Usage:
 %   \begin{lonelist}
@@ -235,7 +235,7 @@
     \fixinnerlist{innerlist}
 
 % An environment IDENTICAL to innerlist that has better pre-list spacing
-% when used as the first thing in a \section
+% when used as the first thing in a \subsection*
 %
 % Usage:
 %   \begin{loneinnerlist}
@@ -278,7 +278,7 @@
 \begin{document}
 \makeheading{Dr.~Jeffrey~D.~Simpson\\Curriculum vitae}
 
-\section{Contact Information}
+\subsection*{Contact Information}
 
 % NOTE: Mind where the & separators and \\ breaks are in the following
 %       table. Table is one row made up of three parboxes. The left
@@ -312,7 +312,7 @@ Sydney NSW Australia}
 \email{jeffrey.simpson@unsw.edu.au}}
 \end{tabular}
 
-\section{Education}
+\subsection*{Education}
 
 \textbf{Ph.D. in Astronomy},
 \href{http://www.canterbury.ac.nz/}{University of Canterbury}
@@ -324,7 +324,7 @@ New Zealand,
 New Zealand,
              \hfill 2009
 
-\section{Current Employment}
+\subsection*{Current Employment}
 
 \textbf{Post-Doctoral Research Fellow},
             University of New South Wales
@@ -332,7 +332,7 @@ New Zealand,
 
 \vspace{0.1in}
 
-\section{Previous Employment}
+\subsection*{Previous Employment}
 
 \textbf{Research Fellow},
             Australian Astronomical Observatory
@@ -344,18 +344,18 @@ New Zealand,
 
 \vspace{0.1in}
 
-\section{Refereed Publications}
+\subsection*{Refereed Publications}
 \input{pubs_summary}
 \begin{list}{}{\cvlist}
 \input{pubs_ref}
 \end{list}
 
-\section{Preprints}
+\subsection*{Preprints}
 \begin{list}{}{\cvlist}
 \input{pubs_unref}
 \end{list}
 
-\section{Competitive observing proposals}
+\subsection*{Competitive observing proposals}
 
 \textbf{Anglo-Australian Telescope}
 \begin{innerlist}
@@ -375,18 +375,18 @@ New Zealand,
 \item \textbf{PI}: ESO452: Exploring self-enrichment in low mass stellar clusters\\ (0.5 nights)  \hfill{17A}
 \end{innerlist}
 
-\section{Contributed conference talks}
+\subsection*{Contributed conference talks}
 \begin{list}{}{\cvlist}
 \input{pubs_conf}
 \end{list}
 %
-% \section{Contributed conference talks}
+% \subsection*{Contributed conference talks}
 % \printbibliography[keyword={talk},heading=none,resetnumbers=true]
 %
-% \section{Conference posters}
+% \subsection*{Conference posters}
 % \printbibliography[keyword={poster},heading=none,resetnumbers=true]
 
-\section{Conference Activity}
+\subsection*{Conference Activity}
 \begin{innerlist}
 	\item Chaired organizing committees for the 2017 Southern Cross Astrophysics Conference on ``Surveying the Cosmos, The Science From Massively Multiplexed Surveys''
 	\item Local organizing committee for LSST@Asia (2019)
@@ -394,13 +394,13 @@ New Zealand,
 
 
 
-\section{Service To Profession}
+\subsection*{Service To Profession}
 \begin{innerlist}
 \item Referee for articles in PASA and A\&A
 \item Referee for research funding proposal for Polish National Science Centre
 \end{innerlist}
 
-\section{References Available to Contact}
+\subsection*{References Available to Contact}
 
 \href
 {https://www.physics.unsw.edu.au/staff/sarah-martell}
