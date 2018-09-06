@@ -56,7 +56,31 @@ def get_papers(orcid):
         ))
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
 
-
+    # my_doi_list = ['10.1093/mnras/sty2175',
+    #                '10.1093/mnras/sty2171',
+    #                '10.1093/mnras/sty2293',
+    #                '10.1117/12.2307305',
+    #                '10.1093/mnras/sty1281',
+    #                '10.1093/mnras/sty865',
+    #                '10.1093/mnras/sty847',
+    #                '10.1093/mnras/stx2637',
+    #                '10.1093/mnras/sty525',
+    #                '10.3847/1538-3881/aaa3e4',
+    #                '10.1093/mnras/stx2582',
+    #                '10.1093/mnras/stx2174'
+    #                '10.1093/mnras/stx1892',
+    #                '10.1093/mnras/stw2835',
+    #                '10.1093/mnras/stw2781',
+    #                '10.3847/1538-4365/228/2/24',
+    #                '10.1093/mnras/stw2064',
+    #                '10.1093/mnras/stw746',
+    #                '10.1117/1.JATIS.1.3.035002',
+    #                '10.1093/mnras/stv327',
+    #                '10.1117/12.2055595',
+    #                '10.1093/mnras/stt857',
+    #                '10.1111/j.1365-2966.2012.22012.x',
+    #                '10.1093/mnrasl/slw073'
+    #                ]
 if __name__ == "__main__":
     papers = get_papers("0000-0002-8165-2507")
     with open("pubs.json", "w") as f:
