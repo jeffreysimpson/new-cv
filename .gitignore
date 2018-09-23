@@ -13,3 +13,5 @@
 *.gz
 .texpadtmp*
 __pycache__
+*.fls
+*.fdb_latexmk
