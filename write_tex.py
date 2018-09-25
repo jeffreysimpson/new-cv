@@ -28,7 +28,7 @@ def format_pub(args):
     pub["authors"][n] = "\\textbf{Simpson, Jeffrey D.}"
     if len(pub["authors"]) > 4:
         fmt += ", ".join(pub["authors"][:3])
-        fmt += ", \etal"
+        fmt += r", \etal"
         if n >= 3:
             fmt += "\\ (incl.\\ \\textbf{JDS})"
     elif len(pub["authors"]) > 1:
