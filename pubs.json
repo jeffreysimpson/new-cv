@@ -1117,23 +1117,6 @@
   {
     "arxiv": null,
     "authors": [
-      "Simpson, J. D.",
-      "Cottrell, P. L."
-    ],
-    "citations": 0,
-    "doctype": "catalog",
-    "doi": null,
-    "page": null,
-    "pub": "VizieR Online Data Catalog",
-    "pubdate": "2014-07-00",
-    "title": "VizieR Online Data Catalog: Abundances of 848 giants of {\\ensuremath{\\omega}} Cen (Simpson+, 2013)",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2014yCat..74331892S",
-    "volume": null,
-    "year": "2014"
-  },
-  {
-    "arxiv": null,
-    "authors": [
       "Sheinis, Andrew",
       "Barden, Sam",
       "Birchall, Michael",
@@ -1195,6 +1178,23 @@
     "title": "First light results from the Hermes spectrograph at the AAT",
     "url": "https://ui.adsabs.harvard.edu/#abs/2014SPIE.9147E..0YS",
     "volume": "9147",
+    "year": "2014"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Simpson, J. D.",
+      "Cottrell, P. L."
+    ],
+    "citations": 0,
+    "doctype": "catalog",
+    "doi": null,
+    "page": null,
+    "pub": "VizieR Online Data Catalog",
+    "pubdate": "2014-07-00",
+    "title": "VizieR Online Data Catalog: Abundances of 848 giants of {\\ensuremath{\\omega}} Cen (Simpson+, 2013)",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2014yCat..74331892S",
+    "volume": null,
     "year": "2014"
   },
   {
