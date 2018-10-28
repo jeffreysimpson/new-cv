@@ -123,7 +123,7 @@
       "Ting, Yuan-Sen",
       "Traven, Gregor"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2171",
     "page": 5242,
@@ -200,7 +200,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosie"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -258,7 +258,7 @@
       "Zinn, Joel C.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -322,7 +322,7 @@
       "Wittenmyer, Rob",
       "Wyse, Rosemary"
     ],
-    "citations": 8,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/sty865",
     "page": 228,
@@ -375,6 +375,48 @@
     "title": "The GALAH survey: properties of the Galactic disc(s) in the solar neighbourhood",
     "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.476.5216D",
     "volume": "476",
+    "year": "2018"
+  },
+  {
+    "arxiv": "1804.05894",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L.",
+      "Da Costa, Gary",
+      "Casey, Andrew R.",
+      "Freeman, Ken C.",
+      "Horner, Jonathan",
+      "Ting, Yuan-Sen",
+      "Nataf, David M.",
+      "Lewis, Geraint F.",
+      "Ness, Melissa K.",
+      "Zucker, Daniel B.",
+      "Cottrell, Peter L.",
+      "{\\v{C}}otar, Klemen",
+      "Asplund, Martin",
+      "Bland-Hawthorn, Joss",
+      "Buder, Sven",
+      "D'Orazi, Valentina",
+      "De Silva, Gayandhi M.",
+      "Duong, Ly",
+      "Kos, Janez",
+      "Lin, Jane",
+      "Lind, Karin",
+      "Schlesinger, Katharine J.",
+      "Sharma, Sanjib",
+      "Zwitter, Toma{\\v{z}}",
+      "Kafle, Prajwal R.",
+      "Nordlander, Thomas"
+    ],
+    "citations": 1,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2018-04-00",
+    "title": "The GALAH survey: Co-orbiting stars and chemical tagging",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180405894S",
+    "volume": null,
     "year": "2018"
   },
   {
@@ -465,48 +507,6 @@
     "year": "2018"
   },
   {
-    "arxiv": "1804.05894",
-    "authors": [
-      "Simpson, Jeffrey D.",
-      "Martell, Sarah L.",
-      "Da Costa, Gary",
-      "Casey, Andrew R.",
-      "Freeman, Ken C.",
-      "Horner, Jonathan",
-      "Ting, Yuan-Sen",
-      "Nataf, David M.",
-      "Lewis, Geraint F.",
-      "Ness, Melissa K.",
-      "Zucker, Daniel B.",
-      "Cottrell, Peter L.",
-      "{\\v{C}}otar, Klemen",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "Buder, Sven",
-      "D'Orazi, Valentina",
-      "De Silva, Gayandhi M.",
-      "Duong, Ly",
-      "Kos, Janez",
-      "Lin, Jane",
-      "Lind, Karin",
-      "Schlesinger, Katharine J.",
-      "Sharma, Sanjib",
-      "Zwitter, Toma{\\v{z}}",
-      "Kafle, Prajwal R.",
-      "Nordlander, Thomas"
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "ArXiv e-prints",
-    "pubdate": "2018-04-00",
-    "title": "The GALAH survey: Co-orbiting stars and chemical tagging",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180405894S",
-    "volume": null,
-    "year": "2018"
-  },
-  {
     "arxiv": "1804.05900",
     "authors": [
       "Simpson, Jeffrey D.",
@@ -581,7 +581,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2637",
     "page": 4612,
@@ -805,7 +805,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -813,24 +813,6 @@
     "pubdate": "2017-03-00",
     "title": "The GALAH survey: observational overview and Gaia DR1 companion",
     "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.465.3203M",
-    "volume": "465",
-    "year": "2017"
-  },
-  {
-    "arxiv": "1610.08562",
-    "authors": [
-      "Simpson, Jeffrey D.",
-      "Martell, Sarah L.",
-      "Navin, Colin A."
-    ],
-    "citations": 7,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stw2781",
-    "page": 1123,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2017-02-00",
-    "title": "A broad perspective on multiple abundance populations in the globular cluster NGC 1851",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.465.1123S",
     "volume": "465",
     "year": "2017"
   },
@@ -874,6 +856,24 @@
     "title": "The Galah Survey: Classification and Diagnostics with t-SNE Reduction of Spectral Information",
     "url": "https://ui.adsabs.harvard.edu/#abs/2017ApJS..228...24T",
     "volume": "228",
+    "year": "2017"
+  },
+  {
+    "arxiv": "1610.08562",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L.",
+      "Navin, Colin A."
+    ],
+    "citations": 7,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stw2781",
+    "page": 1123,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2017-02-00",
+    "title": "A broad perspective on multiple abundance populations in the globular cluster NGC 1851",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2017MNRAS.465.1123S",
+    "volume": "465",
     "year": "2017"
   },
   {
@@ -1103,7 +1103,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 181,
+    "citations": 183,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
