@@ -416,6 +416,51 @@
     "year": "2018"
   },
   {
+<<<<<<< HEAD
+=======
+    "arxiv": "1804.05894",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L.",
+      "Da Costa, Gary",
+      "Casey, Andrew R.",
+      "Freeman, Ken C.",
+      "Horner, Jonathan",
+      "Ting, Yuan-Sen",
+      "Nataf, David M.",
+      "Lewis, Geraint F.",
+      "Ness, Melissa K.",
+      "Zucker, Daniel B.",
+      "Cottrell, Peter L.",
+      "{\\v{C}}otar, Klemen",
+      "Asplund, Martin",
+      "Bland-Hawthorn, Joss",
+      "Buder, Sven",
+      "D'Orazi, Valentina",
+      "De Silva, Gayandhi M.",
+      "Duong, Ly",
+      "Kos, Janez",
+      "Lin, Jane",
+      "Lind, Karin",
+      "Schlesinger, Katharine J.",
+      "Sharma, Sanjib",
+      "Zwitter, Toma{\\v{z}}",
+      "Kafle, Prajwal R.",
+      "Nordlander, Thomas"
+    ],
+    "citations": 2,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "ArXiv e-prints",
+    "pubdate": "2018-04-00",
+    "title": "The GALAH survey: Co-orbiting stars and chemical tagging",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv180405894S",
+    "volume": null,
+    "year": "2018"
+  },
+  {
+>>>>>>> 2ec336ca911184cbb2fc588b91d7c6842437d30d
     "arxiv": "1804.05869",
     "authors": [
       "Buder, S.",
