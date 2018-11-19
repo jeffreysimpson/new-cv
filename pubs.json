@@ -123,7 +123,7 @@
       "Ting, Yuan-Sen",
       "Traven, Gregor"
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2171",
     "page": 5242,
@@ -169,6 +169,48 @@
     "title": "Holistic spectroscopy: complete reconstruction of a wide-field, multiobject spectroscopic image using a photonic comb",
     "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.480.5475K",
     "volume": "480",
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L.",
+      "Da Costa, Gary",
+      "Casey, Andrew R.",
+      "Freeman, Ken C.",
+      "Horner, Jonathan",
+      "Ting, Yuan-Sen",
+      "Nataf, David M.",
+      "Lewis, Geraint F.",
+      "Ness, Melissa K.",
+      "Zucker, Daniel B.",
+      "Cottrell, Peter L.",
+      "{\\v{C}}otar, Klemen",
+      "Asplund, Martin",
+      "Bland-Hawthorn, Joss",
+      "Buder, Sven",
+      "D'Orazi, Valentina",
+      "De Silva, Gayandhi M.",
+      "Duong, Ly",
+      "Kos, Janez",
+      "Lin, Jane",
+      "Lind, Karin",
+      "Schlesinger, Katharine J.",
+      "Sharma, Sanjib",
+      "Zwitter, Toma{\\v{z}}",
+      "Kafle, Prajwal R.",
+      "Nordlander, Thomas"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/sty3042",
+    "page": 2902,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2018-11-00",
+    "title": "The GALAH survey: Co-orbiting stars and chemical tagging",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.tmp.2902S",
+    "volume": null,
     "year": "2018"
   },
   {
@@ -238,7 +280,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosie"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -296,7 +338,7 @@
       "Zinn, Joel C.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 22,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -321,6 +363,31 @@
     "title": "The most metal-poor Galactic globular cluster: the first spectroscopic observations of ESO280-SC06",
     "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.477.4565S",
     "volume": "477",
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Edgar, Michael L.",
+      "Zhelem, Ross",
+      "Waller, Lewis",
+      "Kos, Janez",
+      "Mayfield, Don",
+      "Pai, Naveen",
+      "Sheinis, Andrew",
+      "De Silva, Gayandhi",
+      "Simpson, Jeffrey",
+      "Stazak, Nicholas"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": "10.1117/12.2307305",
+    "page": 1070633,
+    "pub": "Advances in Optical and Mechanical Technologies for Telescopes and Instrumentation III",
+    "pubdate": "2018-07-00",
+    "title": "Radioactive emission from high-index,optical glasses and atypical effects on CCDs",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018SPIE10706E..33E",
+    "volume": "10706",
     "year": "2018"
   },
   {
@@ -360,7 +427,7 @@
       "Wittenmyer, Rob",
       "Wyse, Rosemary"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/sty865",
     "page": 228,
@@ -581,7 +648,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary"
     ],
-    "citations": 9,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2637",
     "page": 4612,
@@ -805,7 +872,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 68,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -865,7 +932,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -1103,7 +1170,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 186,
+    "citations": 188,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
