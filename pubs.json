@@ -26,7 +26,7 @@
       "Wittenmyer, Robert A.",
       "Zucker, Daniel B."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2924",
     "page": 4215,
@@ -112,7 +112,7 @@
       "Kafle, Prajwal R.",
       "Nordlander, Thomas"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/sty3042",
     "page": 2902,
@@ -384,7 +384,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/sty847",
     "page": 4565,
@@ -501,7 +501,7 @@
       "Ting, Y. -S.",
       "Wyse, R. F. G."
     ],
-    "citations": 10,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1093/mnras/sty525",
     "page": 5216,
@@ -523,12 +523,11 @@
       "Lin, J.",
       "Kos, J.",
       "Casagrande, L.",
-      "Bland-Hawthorn, J.",
       "Casey, A. R.",
+      "Bland-Hawthorn, J.",
       "De Silva, G. M.",
       "D'Orazi, V.",
       "Freeman, K. C.",
-      "Lewis, G. F.",
       "Martell, S. L.",
       "Schlesinger, K. J.",
       "Sharma, S.",
@@ -540,6 +539,7 @@
       "Hayden, M. R.",
       "Hyde, E. A.",
       "Kafle, P. R.",
+      "Lewis, G. F.",
       "Nataf, D. M.",
       "Nordlander, T.",
       "Reid, W.",
@@ -685,7 +685,7 @@
       "Traven, Gregor",
       "Wright, Duncan"
     ],
-    "citations": 11,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaa3e4",
     "page": 84,
@@ -725,7 +725,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 17,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -860,7 +860,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 71,
+    "citations": 70,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -967,7 +967,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 22,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
