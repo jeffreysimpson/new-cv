@@ -78,8 +78,11 @@ if __name__ == "__main__":
                 p["citations"] = max(p["citations"], p1["citations"])
                 pubs.remove(p1)
     pubs = sorted(pubs + other_pubs, key=itemgetter("pubdate"), reverse=True)
-    pubs = [p for p in pubs if p["doctype"] in ["article", "eprint"]]
+    pubs = [p for p in pubs if p["doctype"] in ["article",
+                                                "eprint",
+                                                "inproceedings"]]
     ref = [p for p in pubs if p["doctype"] == "article"]
+    inproceedings = [p for p in pubs if p["doctype"] == "inproceedings"]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
 
     # Compute citation stats
@@ -96,25 +99,13 @@ Total citations~=~{3}; h-index~=~{4} ({0})""".format(
             date.today(), npapers, nfirst, ncitations, hindex))
     with open("pubs_summary.tex", "w") as f:
         f.write(summary)
-
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
+    inproceedings = list(map(
+        format_pub, zip(range(len(inproceedings), 0, -1), inproceedings)))
     with open("pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
     with open("pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unref))
-
-    # Choose the selected publications
-    selected = []
-    for s in select_pubs:
-        k = s["key"]
-        v = s["value"]
-        for doc in pubs:
-            if doc[k] == v:
-                selected.append(doc)
-                break
-    selected = sorted(selected, key=itemgetter("pubdate"), reverse=True)
-    selected = list(map(format_pub, zip(range(len(selected), 0, -1),
-                                        selected)))
-    with open("pubs_select.tex", "w") as f:
-        f.write("\n\n".join(selected))
+    with open("pubs_inproceedings.tex", "w") as f:
+        f.write("\n\n".join(inproceedings))

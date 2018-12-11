@@ -396,31 +396,6 @@
     "year": "2018"
   },
   {
-    "arxiv": null,
-    "authors": [
-      "Edgar, Michael L.",
-      "Zhelem, Ross",
-      "Waller, Lewis",
-      "Kos, Janez",
-      "Mayfield, Don",
-      "Pai, Naveen",
-      "Sheinis, Andrew",
-      "De Silva, Gayandhi",
-      "Simpson, Jeffrey",
-      "Stazak, Nicholas"
-    ],
-    "citations": 0,
-    "doctype": "inproceedings",
-    "doi": "10.1117/12.2307305",
-    "page": 1070633,
-    "pub": "Advances in Optical and Mechanical Technologies for Telescopes and Instrumentation III",
-    "pubdate": "2018-07-00",
-    "title": "Radioactive emission from high-index,optical glasses and atypical effects on CCDs",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2018SPIE10706E..33E",
-    "volume": "10706",
-    "year": "2018"
-  },
-  {
     "arxiv": "1802.02924",
     "authors": [
       "Quillen, Alice C.",
@@ -466,6 +441,31 @@
     "title": "The GALAH survey: stellar streams and how stellar velocity distributions vary with Galactic longitude, hemisphere, and metallicity",
     "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.478..228Q",
     "volume": "478",
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Edgar, Michael L.",
+      "Zhelem, Ross",
+      "Waller, Lewis",
+      "Kos, Janez",
+      "Mayfield, Don",
+      "Pai, Naveen",
+      "Sheinis, Andrew",
+      "De Silva, Gayandhi",
+      "Simpson, Jeffrey",
+      "Stazak, Nicholas"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": "10.1117/12.2307305",
+    "page": 1070633,
+    "pub": "Advances in Optical and Mechanical Technologies for Telescopes and Instrumentation III",
+    "pubdate": "2018-07-00",
+    "title": "Radioactive emission from high-index,optical glasses and atypical effects on CCDs",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018SPIE10706E..33E",
+    "volume": "10706",
     "year": "2018"
   },
   {
