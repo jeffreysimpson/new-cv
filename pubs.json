@@ -164,7 +164,7 @@
       "Wittenmyer, Rob A.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2293",
     "page": 645,
@@ -203,7 +203,7 @@
       "Ting, Yuan-Sen",
       "Traven, Gregor"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2171",
     "page": 5242,
@@ -310,7 +310,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosie"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -368,7 +368,7 @@
       "Zinn, Joel C.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -393,6 +393,31 @@
     "title": "The most metal-poor Galactic globular cluster: the first spectroscopic observations of ESO280-SC06",
     "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.477.4565S",
     "volume": "477",
+    "year": "2018"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Edgar, Michael L.",
+      "Zhelem, Ross",
+      "Waller, Lewis",
+      "Kos, Janez",
+      "Mayfield, Don",
+      "Pai, Naveen",
+      "Sheinis, Andrew",
+      "De Silva, Gayandhi",
+      "Simpson, Jeffrey",
+      "Stazak, Nicholas"
+    ],
+    "citations": 0,
+    "doctype": "inproceedings",
+    "doi": "10.1117/12.2307305",
+    "page": 1070633,
+    "pub": "Advances in Optical and Mechanical Technologies for Telescopes and Instrumentation III",
+    "pubdate": "2018-07-00",
+    "title": "Radioactive emission from high-index,optical glasses and atypical effects on CCDs",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2018SPIE10706E..33E",
+    "volume": "10706",
     "year": "2018"
   },
   {
@@ -441,31 +466,6 @@
     "title": "The GALAH survey: stellar streams and how stellar velocity distributions vary with Galactic longitude, hemisphere, and metallicity",
     "url": "https://ui.adsabs.harvard.edu/#abs/2018MNRAS.478..228Q",
     "volume": "478",
-    "year": "2018"
-  },
-  {
-    "arxiv": null,
-    "authors": [
-      "Edgar, Michael L.",
-      "Zhelem, Ross",
-      "Waller, Lewis",
-      "Kos, Janez",
-      "Mayfield, Don",
-      "Pai, Naveen",
-      "Sheinis, Andrew",
-      "De Silva, Gayandhi",
-      "Simpson, Jeffrey",
-      "Stazak, Nicholas"
-    ],
-    "citations": 0,
-    "doctype": "inproceedings",
-    "doi": "10.1117/12.2307305",
-    "page": 1070633,
-    "pub": "Advances in Optical and Mechanical Technologies for Telescopes and Instrumentation III",
-    "pubdate": "2018-07-00",
-    "title": "Radioactive emission from high-index,optical glasses and atypical effects on CCDs",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2018SPIE10706E..33E",
-    "volume": "10706",
     "year": "2018"
   },
   {
@@ -636,7 +636,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2637",
     "page": 4612,
@@ -860,7 +860,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1158,7 +1158,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 193,
+    "citations": 195,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
