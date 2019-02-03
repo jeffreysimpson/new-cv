@@ -80,9 +80,10 @@ if __name__ == "__main__":
     pubs = sorted(pubs + other_pubs, key=itemgetter("pubdate"), reverse=True)
     pubs = [p for p in pubs if p["doctype"] in ["article",
                                                 "eprint",
-                                                "inproceedings"]]
+                                                "inproceedings",
+                                                "abstract"]]
     ref = [p for p in pubs if p["doctype"] == "article"]
-    inproceedings = [p for p in pubs if p["doctype"] == "inproceedings"]
+    inproceedings = [p for p in pubs if p["doctype"] in ["abstract", "inproceedings"]]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
 
     # Compute citation stats
