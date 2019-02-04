@@ -83,7 +83,8 @@ if __name__ == "__main__":
                                                 "inproceedings",
                                                 "abstract"]]
     ref = [p for p in pubs if p["doctype"] == "article"]
-    inproceedings = [p for p in pubs if p["doctype"] in ["abstract", "inproceedings"]]
+    inproceedings = [p for p in pubs if p["doctype"] in ["abstract",
+                                                         "inproceedings"]]
     unref = [p for p in pubs if p["doctype"] == "eprint"]
 
     # Compute citation stats
