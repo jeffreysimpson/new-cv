@@ -42,6 +42,22 @@
     "year": "2019"
   },
   {
+    "arxiv": "1902.00447",
+    "authors": [
+      "Simpson, Jeffrey D."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-01-00",
+    "title": "The very retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190200447S",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1809.02658",
     "authors": [
       "Bland-Hawthorn, Joss",
@@ -261,7 +277,7 @@
       "Ting, Yuan-Sen",
       "Traven, Gregor"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2171",
     "page": 5242,
@@ -386,7 +402,7 @@
       "Zinn, Joel C.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -787,7 +803,7 @@
       "Penarrubia, J.",
       "Tolstoy, E."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stx1892",
     "page": 4087,
@@ -896,7 +912,7 @@
       "Martell, Sarah L.",
       "Navin, Colin A."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2781",
     "page": 1123,
@@ -1176,7 +1192,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 198,
+    "citations": 199,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
