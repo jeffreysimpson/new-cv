@@ -42,6 +42,39 @@
     "year": "2019"
   },
   {
+    "arxiv": "1902.10113",
+    "authors": [
+      "Khanna, Shourya",
+      "Sharma, Sanjib",
+      "Tepper-Garcia, Thor",
+      "Bland-Hawthorn, Joss",
+      "Hayden, Michael",
+      "Asplund, Martin",
+      "Buder, Sven",
+      "Chen, Boquan",
+      "De Silva, Gayandhi M.",
+      "Freeman, Ken C.",
+      "Kos, Janez",
+      "Lin, Jane",
+      "Martell, Sarah L.",
+      "Simpson, Jeffrey D.",
+      "Stello, Dennis",
+      "Ting, Yuan-Sen",
+      "Zucker, Daniel B.",
+      "Zwitter, Tomaz"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-02-00",
+    "title": "The GALAH survey and Gaia DR2: Linking ridges, arches and vertical waves in the kinematics of the Milky Way",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190210113K",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1902.00447",
     "authors": [
       "Simpson, Jeffrey D."
@@ -186,7 +219,7 @@
       "Stello, Dennis",
       "Ting, Yuan-Sen"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2414",
     "page": 2666,
@@ -402,7 +435,7 @@
       "Zinn, Joel C.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 42,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -584,7 +617,7 @@
       "Traven, G.",
       "Wyse, R. F. G."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -1192,7 +1225,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 205,
+    "citations": 207,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
