@@ -63,7 +63,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Tomaz"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -121,7 +121,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 10,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 222,
@@ -219,7 +219,7 @@
       "Stello, Dennis",
       "Ting, Yuan-Sen"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2414",
     "page": 2666,
@@ -271,7 +271,7 @@
       "Wittenmyer, Rob A.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2293",
     "page": 645,
@@ -435,7 +435,7 @@
       "Zinn, Joel C.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -524,7 +524,7 @@
       "Wittenmyer, Rob",
       "Wyse, Rosemary"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1093/mnras/sty865",
     "page": 228,
@@ -568,7 +568,7 @@
       "Ting, Y. -S.",
       "Wyse, R. F. G."
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/sty525",
     "page": 5216,
@@ -792,7 +792,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -927,7 +927,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 75,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1034,7 +1034,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
@@ -1163,7 +1163,7 @@
       "Zucker, Daniel",
       "Zwitter, Tomaz"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.1.3.035002",
     "page": 35002,
@@ -1225,7 +1225,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 213,
+    "citations": 214,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
