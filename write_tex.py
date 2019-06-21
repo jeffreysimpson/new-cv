@@ -60,6 +60,9 @@ def format_pub(args):
     if pub["citations"] > 1:
         fmt += " [\\href{{{0}}}{{{1}~citations}}]".format(pub["url"],
                                                           pub["citations"])
+    if pub["citations"] == 1:
+        fmt += " [\\href{{{0}}}{{{1}~citation}}]".format(pub["url"],
+                                                         pub["citations"])
 
     return fmt
 
