@@ -242,7 +242,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Tomaz"
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -264,7 +264,7 @@
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2019-01-00",
-    "title": "The very retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
+    "title": "The retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190200447S",
     "volume": null,
     "year": "2019"
@@ -515,7 +515,7 @@
       "{\\v{C}}otar, Klemen",
       "Spina, Lorenzo"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -574,7 +574,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 53,
+    "citations": 54,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1315,7 +1315,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 219,
+    "citations": 220,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
