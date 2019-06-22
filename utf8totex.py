@@ -24,7 +24,7 @@
 #
 
 
-import unicodedata;
+import unicodedata
 import logging
 
 log = logging.getLogger(__name__)
@@ -824,7 +824,7 @@ def utf8totex(s, non_ascii_only=False, brackets=True, substitute_bad_chars=False
             if (lch is not None):
                 # add brackets if needed, i.e. if we have a substituting macro.
                 # note: in condition, beware, that lch might be of zero length.
-                result += ('{'+lch+'}' if brackets and lch[0:1] == '\\' else
+                result += ('{' + lch + '}' if brackets and lch[0:1] == '\\' else
                            lch)
             elif ((ord(ch) >= 32 and ord(ch) <= 127) or
                   (ch in "\n\r\t")):
@@ -832,7 +832,8 @@ def utf8totex(s, non_ascii_only=False, brackets=True, substitute_bad_chars=False
                 result += ch
             else:
                 # non-ascii char
-                log.warning(u"Character cannot be encoded into LaTeX: U+%04X - `%s'" % (ord(ch), ch))
+                log.warning(
+                    u"Character cannot be encoded into LaTeX: U+%04X - `%s'" % (ord(ch), ch))
                 if (substitute_bad_chars):
                     result += r'{\bfseries ?}'
                 else:
@@ -857,7 +858,7 @@ if __name__ == '__main__':
 
         latex = ''
         for line in fileinput.input():
-            latex += line;
+            latex += line
 
         print('\n--- LATEX ---\n')
         print(utf8totex(latex.decode('utf-8')).encode('utf-8'))
