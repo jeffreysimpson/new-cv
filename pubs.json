@@ -23,7 +23,7 @@
       "Wittenmyer, Rob A.",
       "Galah Collaboration"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stz1397",
     "page": 2474,
@@ -32,6 +32,22 @@
     "title": "The GALAH survey: unresolved triple Sun-like stars discovered by the Gaia mission",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.487.2474C",
     "volume": "487",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1902.00447",
+    "authors": [
+      "Simpson, Jeffrey D."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz1699",
+    "page": 1659,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-06-00",
+    "title": "The retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp.1659S",
+    "volume": null,
     "year": "2019"
   },
   {
@@ -254,22 +270,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1902.00447",
-    "authors": [
-      "Simpson, Jeffrey D."
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-01-00",
-    "title": "The retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190200447S",
-    "volume": null,
-    "year": "2019"
-  },
-  {
     "arxiv": null,
     "authors": [
       "Simpson, Jeffrey"
@@ -448,7 +448,7 @@
       "Ting, Yuan-Sen",
       "Traven, Gregor"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2171",
     "page": 5242,
@@ -574,7 +574,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 54,
+    "citations": 56,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1315,7 +1315,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 220,
+    "citations": 221,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
