@@ -35,6 +35,24 @@
     "year": "2019"
   },
   {
+    "arxiv": "1907.02527",
+    "authors": [
+      "Borsato, Nicholas W.",
+      "Martell, Sarah L.",
+      "Simpson, Jeffrey D."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-07-00",
+    "title": "Identifying Stellar Streams in Gaia DR2 with Data Mining Techniques",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190702527B",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1902.00447",
     "authors": [
       "Simpson, Jeffrey D."
@@ -574,7 +592,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 56,
+    "citations": 57,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
