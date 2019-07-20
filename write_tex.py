@@ -95,7 +95,7 @@ if __name__ == "__main__":
     nfirst = sum(1 for p in ref if "Simpson" in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
-    hindex = sum(c >= i for i, c in enumerate(cites))
+    hindex = sum(c >= i + 1 for i, c in enumerate(cites))
 
     summary = (
         """{1} refereed publications. {2} refeered publications as first author.
