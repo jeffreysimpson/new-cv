@@ -51,6 +51,41 @@
     "year": "2019"
   },
   {
+    "arxiv": "1907.11725",
+    "authors": [
+      "Koposov, Sergey E.",
+      "Boubert, Douglas",
+      "Li, Ting S.",
+      "Erkal, Denis",
+      "Da Costa, Gary S.",
+      "Zucker, Daniel B.",
+      "Ji, Alexander P.",
+      "Kuehn, Kyler",
+      "Lewis, Geraint F.",
+      "Mackey, Dougal",
+      "Simpson, Jeffrey D.",
+      "Shipp, Nora",
+      "Wan, Zhen",
+      "Belokurov, Vasily",
+      "Bland-Hawthorn, Joss",
+      "Martell, Sarah L.",
+      "Nordlander, Thomas",
+      "Pace, Andrew B.",
+      "De Silva, Gayandhi M.",
+      "Wang, Mei-Yu"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-07-00",
+    "title": "The Great Escape: Discovery of a nearby 1700 km/s star ejected from the Milky Way by Sgr A*",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190711725K",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1907.09488",
     "authors": [
       "Shipp, N.",
