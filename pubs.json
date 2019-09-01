@@ -104,7 +104,7 @@
       "Martell, S. L.",
       "Wang, M. Y."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -151,7 +151,7 @@
       "Wechsler, R. H.",
       "Yanny, B."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -246,7 +246,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 24,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -348,7 +348,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -473,7 +473,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Tomaz"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -572,7 +572,7 @@
       "Ting, Yuan-Sen",
       "Galah Collaboration"
     ],
-    "citations": 13,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2414",
     "page": 2666,
@@ -730,7 +730,7 @@
       "{\\v{C}}otar, Klemen",
       "Spina, Lorenzo"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -789,7 +789,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 62,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1232,7 +1232,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 81,
+    "citations": 82,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1530,7 +1530,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 232,
+    "citations": 235,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
