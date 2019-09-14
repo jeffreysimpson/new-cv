@@ -4,7 +4,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stz1699",
     "page": 253,
@@ -74,7 +74,7 @@
       "De Silva, Gayandhi M.",
       "Wang, Mei-Yu"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -773,7 +773,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 66,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1216,7 +1216,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 83,
+    "citations": 84,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1530,7 +1530,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 238,
+    "citations": 239,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
