@@ -4,7 +4,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/stz1699",
     "page": 253,
@@ -16,7 +16,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1902.10113",
     "authors": [
       "Khanna, Shourya",
       "Sharma, Sanjib",
@@ -39,7 +39,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 0,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 2122,
@@ -246,7 +246,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 30,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -331,7 +331,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 17,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -434,39 +434,6 @@
     "title": "The GALAH survey: co-orbiting stars and chemical tagging",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.5302S",
     "volume": "482",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1902.10113",
-    "authors": [
-      "Khanna, Shourya",
-      "Sharma, Sanjib",
-      "Tepper-Garcia, Thor",
-      "Bland-Hawthorn, Joss",
-      "Hayden, Michael",
-      "Asplund, Martin",
-      "Buder, Sven",
-      "Chen, Boquan",
-      "De Silva, Gayandhi M.",
-      "Freeman, Ken C.",
-      "Kos, Janez",
-      "Lin, Jane",
-      "Martell, Sarah L.",
-      "Simpson, Jeffrey D.",
-      "Stello, Dennis",
-      "Ting, Yuan-Sen",
-      "Zucker, Daniel B.",
-      "Zwitter, Tomaz"
-    ],
-    "citations": 4,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-02-00",
-    "title": "The GALAH survey and Gaia DR2: Linking ridges, arches and vertical waves in the kinematics of the Milky Way",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190210113K",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -808,7 +775,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 70,
+    "citations": 71,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -824,7 +791,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/sty847",
     "page": 4565,
@@ -941,7 +908,7 @@
       "Ting, Y. -S.",
       "Wyse, R. F. G."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/sty525",
     "page": 5216,
@@ -1136,7 +1103,7 @@
       "Navin, Colin A.",
       "Zucker, Daniel B."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2174",
     "page": 2856,
@@ -1311,7 +1278,7 @@
       "Martell, Sarah L.",
       "Navin, Colin A."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2781",
     "page": 1123,
@@ -1665,7 +1632,7 @@
       "Simpson, Jeffrey D.",
       "Cottrell, P. L."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stt857",
     "page": 1892,
@@ -1683,7 +1650,7 @@
       "Cottrell, P. L.",
       "Worley, C. C."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1111/j.1365-2966.2012.22012.x",
     "page": 1153,
