@@ -27,6 +27,8 @@ def format_pub(args):
          if "Simpson, J" in pub["authors"][i]][0]
     pub["authors"][n] = "\\textbf{Simpson, Jeffrey D.}"
     if len(pub["authors"]) > 4:
+        # print(pub["authors"])
+        # print(pub["authors"].index('\\textbf{Simpson, Jeffrey D.}'))
         fmt += ", ".join(pub["authors"][:3])
         fmt += r", \etal"
         if n >= 3:
