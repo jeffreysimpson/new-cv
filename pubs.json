@@ -1,21 +1,5 @@
 [
   {
-    "arxiv": "1902.00447",
-    "authors": [
-      "Simpson, Jeffrey D."
-    ],
-    "citations": 3,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stz1699",
-    "page": 253,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2019-09-00",
-    "title": "The retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.488..253S",
-    "volume": "488",
-    "year": "2019"
-  },
-  {
     "arxiv": "1902.10113",
     "authors": [
       "Khanna, Shourya",
@@ -47,6 +31,39 @@
     "pubdate": "2019-09-00",
     "title": "The GALAH survey and Gaia DR2: Linking ridges, arches and vertical waves in the kinematics of the Milky Way",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp.2122K",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": "1902.00447",
+    "authors": [
+      "Simpson, Jeffrey D."
+    ],
+    "citations": 3,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz1699",
+    "page": 253,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-09-00",
+    "title": "The retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.488..253S",
+    "volume": "488",
+    "year": "2019"
+  },
+  {
+    "arxiv": "1909.06314",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-09-00",
+    "title": "A Nitrogen-Enhanced Metal-Poor star discovered in the globular cluster ESO280-SC06",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190906314S",
     "volume": null,
     "year": "2019"
   },
@@ -558,7 +575,7 @@
       "Ting, Yuan-Sen",
       "Galah Collaboration"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2414",
     "page": 2666,
