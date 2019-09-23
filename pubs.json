@@ -57,13 +57,13 @@
       "Martell, Sarah L."
     ],
     "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz2611",
+    "page": 2238,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2019-09-00",
     "title": "A Nitrogen-Enhanced Metal-Poor star discovered in the globular cluster ESO280-SC06",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190906314S",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp.2238S",
     "volume": null,
     "year": "2019"
   },
@@ -792,7 +792,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 71,
+    "citations": 72,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
