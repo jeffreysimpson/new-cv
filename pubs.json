@@ -1,40 +1,5 @@
 [
   {
-    "arxiv": null,
-    "authors": [
-      "Khanna, Shourya",
-      "Sharma, Sanjib",
-      "Tepper-Garcia, Thor",
-      "Bland-Hawthorn, Joss",
-      "Hayden, Michael",
-      "Asplund, Martin",
-      "Buder, Sven",
-      "Chen, Boquan",
-      "De Silva, Gayandhi M.",
-      "Freeman, Ken C.",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Martell, Sarah L.",
-      "Simpson, Jeffrey D.",
-      "Nordlander, Thomas",
-      "Stello, Dennis",
-      "Ting, Yuan-Sen",
-      "Zucker, Daniel B.",
-      "Zwitter, Toma{\\v{z}}"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stz2462",
-    "page": 4962,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2019-11-00",
-    "title": "The GALAH survey and Gaia DR2: Linking ridges, arches, and vertical waves in the kinematics of the Milky Way",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.489.4962K",
-    "volume": "489",
-    "year": "2019"
-  },
-  {
     "arxiv": "1902.10113",
     "authors": [
       "Khanna, Shourya",
@@ -61,12 +26,12 @@
     "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
-    "page": 2122,
+    "page": 4962,
     "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2019-09-00",
-    "title": "The GALAH survey and Gaia DR2: Linking ridges, arches and vertical waves in the kinematics of the Milky Way",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp.2122K",
-    "volume": null,
+    "pubdate": "2019-11-00",
+    "title": "The GALAH survey and Gaia DR2: Linking ridges, arches, and vertical waves in the kinematics of the Milky Way",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.489.4962K",
+    "volume": "489",
     "year": "2019"
   },
   {
@@ -83,6 +48,41 @@
     "title": "The retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.488..253S",
     "volume": "488",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Khanna, Shourya",
+      "Sharma, Sanjib",
+      "Tepper-Garcia, Thor",
+      "Bland-Hawthorn, Joss",
+      "Hayden, Michael",
+      "Asplund, Martin",
+      "Buder, Sven",
+      "Chen, Boquan",
+      "De Silva, Gayandhi M.",
+      "Freeman, Ken C.",
+      "Kos, Janez",
+      "Lewis, Geraint F.",
+      "Lin, Jane",
+      "Martell, Sarah L.",
+      "Simpson, Jeffrey D.",
+      "Nordlander, Thomas",
+      "Stello, Dennis",
+      "Ting, Yuan-Sen",
+      "Zucker, Daniel B.",
+      "Zwitter, Toma{\\v{z}}"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz2462",
+    "page": 2122,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-09-00",
+    "title": "The GALAH survey and Gaia DR2: Linking ridges, arches and vertical waves in the kinematics of the Milky Way",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp.2122K",
+    "volume": null,
     "year": "2019"
   },
   {
@@ -126,7 +126,7 @@
       "Wittenmyer, Rob A.",
       "Galah Collaboration"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stz1397",
     "page": 2474,
@@ -256,7 +256,7 @@
       "Martell, Sarah L.",
       "Simpson, Jeffrey D."
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -298,7 +298,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 32,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -701,7 +701,7 @@
       "Wittenmyer, Rob A.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 15,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2293",
     "page": 645,
@@ -827,7 +827,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 74,
+    "citations": 73,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -960,7 +960,7 @@
       "Ting, Y. -S.",
       "Wyse, R. F. G."
     ],
-    "citations": 22,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/sty525",
     "page": 5216,
@@ -1095,7 +1095,7 @@
       "Traven, Gregor",
       "Wright, Duncan"
     ],
-    "citations": 18,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaa3e4",
     "page": 84,
@@ -1135,7 +1135,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 28,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -1270,7 +1270,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 85,
+    "citations": 86,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1415,7 +1415,7 @@
       "Simpson, J. D.",
       "Momany, Y."
     ],
-    "citations": 23,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slw073",
     "page": null,
@@ -1584,7 +1584,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 242,
+    "citations": 241,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
