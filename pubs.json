@@ -35,6 +35,23 @@
     "year": "2019"
   },
   {
+    "arxiv": "1909.06314",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz2611",
+    "page": 741,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-11-00",
+    "title": "A nitrogen-enhanced metal-poor star discovered in the globular cluster ESO280-SC06",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.490..741S",
+    "volume": "490",
+    "year": "2019"
+  },
+  {
     "arxiv": "1907.09481",
     "authors": [
       "Li, T. S.",
@@ -95,23 +112,6 @@
     "title": "The retrograde orbit of the globular cluster FSR1758 revealed with Gaia DR2",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.488..253S",
     "volume": "488",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1909.06314",
-    "authors": [
-      "Simpson, Jeffrey D.",
-      "Martell, Sarah L."
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stz2611",
-    "page": 2238,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2019-09-00",
-    "title": "A Nitrogen-Enhanced Metal-Poor star discovered in the globular cluster ESO280-SC06",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp.2238S",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -263,7 +263,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
