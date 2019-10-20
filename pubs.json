@@ -23,7 +23,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -95,6 +95,58 @@
     "pubdate": "2019-10-00",
     "title": "The Southern Stellar Stream Spectroscopic Survey (S<SUP>5</SUP>): Overview, Target Selection, Data Reduction, Validation, and Early Science",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp.2344L",
+    "volume": null,
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Sharma, Sanjib",
+      "Stello, Dennis",
+      "Bland-Hawthorn, Joss",
+      "Hayden, Michael R.",
+      "Zinn, Joel C.",
+      "Kallinger, Thomas",
+      "Hon, Marc",
+      "Asplund, Martin",
+      "Buder, Sven",
+      "De Silva, Gayandhi M.",
+      "D'orazi, Valentina",
+      "Freeman, Ken",
+      "Kos, Janez",
+      "Lewis, Geraint F.",
+      "Lin, Jane",
+      "Lind, Karin",
+      "Martell, Sarah",
+      "Simpson, Jeffrey D.",
+      "Wittenmyer, Rob A.",
+      "Zucker, Daniel B.",
+      "Zwitter, Tomaz",
+      "Bedding, Timothy R.",
+      "Chen, Boquan",
+      "Cotar, Klemen",
+      "Esdaile, James",
+      "Horner, Jonathan",
+      "Huber, Daniel",
+      "Kafle, Prajwal R.",
+      "Khanna, Shourya",
+      "Li, Tanda",
+      "Ting, Yuan-Sen",
+      "Nataf, David M.",
+      "Nordlander, Thomas",
+      "Saadon, Mohd Hafiz Mohd",
+      "Traven, Gregor",
+      "Wright, Duncan",
+      "Wyse, Rosemary F. G."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz2861",
+    "page": 2471,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-10-00",
+    "title": "The K2-HERMES Survey: Age and Metallicity of the Thick Disc",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp.2471S",
     "volume": null,
     "year": "2019"
   },
@@ -185,6 +237,24 @@
     "year": "2019"
   },
   {
+    "arxiv": "1907.02527",
+    "authors": [
+      "Borsato, Nicholas W.",
+      "Martell, Sarah L.",
+      "Simpson, Jeffrey D."
+    ],
+    "citations": 2,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-07-00",
+    "title": "Identifying Stellar Streams in Gaia DR2 with Data Mining Techniques",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190702527B",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1907.09488",
     "authors": [
       "Shipp, N.",
@@ -211,24 +281,6 @@
     "pubdate": "2019-07-00",
     "title": "Proper Motions of Stellar Streams Discovered in the Dark Energy Survey",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190709488S",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": "1907.02527",
-    "authors": [
-      "Borsato, Nicholas W.",
-      "Martell, Sarah L.",
-      "Simpson, Jeffrey D."
-    ],
-    "citations": 2,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-07-00",
-    "title": "Identifying Stellar Streams in Gaia DR2 with Data Mining Techniques",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190702527B",
     "volume": null,
     "year": "2019"
   },
@@ -263,7 +315,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 34,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -808,7 +860,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/sty847",
     "page": 4565,
@@ -1120,7 +1172,7 @@
       "Navin, Colin A.",
       "Zucker, Daniel B."
     ],
-    "citations": 11,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2174",
     "page": 2856,
@@ -1235,7 +1287,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 89,
+    "citations": 88,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1295,7 +1347,7 @@
       "Martell, Sarah L.",
       "Navin, Colin A."
     ],
-    "citations": 12,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2781",
     "page": 1123,
@@ -1549,7 +1601,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 243,
+    "citations": 242,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -1649,7 +1701,7 @@
       "Simpson, Jeffrey D.",
       "Cottrell, P. L."
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stt857",
     "page": 1892,
@@ -1667,7 +1719,7 @@
       "Cottrell, P. L.",
       "Worley, C. C."
     ],
-    "citations": 12,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1111/j.1365-2966.2012.22012.x",
     "page": 1153,
