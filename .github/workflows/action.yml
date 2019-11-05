@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       MANUSCRIPT_PATH: tex_files/cv # exclude the '.tex' / '.pdf' extension!
-      LATEX: xelatex
+      LATEX: pdflatex
     steps:
     - uses: actions/checkout@v1
     - name: Install texlive
@@ -27,6 +27,7 @@ jobs:
     - name: Build paper
       run: |
         cd ${MANUSCRIPT_PATH%/*}
+        ${LATEX} ${MANUSCRIPT_PATH##*/}.tex
         ${LATEX} ${MANUSCRIPT_PATH##*/}.tex
     - name: Push paper
       run: |
