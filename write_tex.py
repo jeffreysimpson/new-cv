@@ -22,6 +22,8 @@ JOURNAL_MAP = {
 
 def format_pub(args):
     ind, pub = args
+
+    pub["title"] = pub["title"].replace("<SUP>5</SUP>","$^5$")
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
     n = [i for i in range(len(pub["authors"]))
          if "Simpson, J" in pub["authors"][i]][0]
