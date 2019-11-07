@@ -72,19 +72,8 @@ def format_pub(args):
 
 
 if __name__ == "__main__":
-    with open("pubs.json", "r") as f:
+    with open("json/pubs.json", "r") as f:
         pubs = json.load(f)
-    with open("other_pubs.json", "r") as f:
-        other_pubs = json.load(f)
-    with open("select_pubs.json", "r") as f:
-        select_pubs = json.load(f)
-    for p in other_pubs:
-        for p1 in pubs:
-            if (p1["arxiv"] is not None and p["arxiv"] == p1["arxiv"]) or \
-                    p["title"] == p1["title"]:
-                p["citations"] = max(p["citations"], p1["citations"])
-                pubs.remove(p1)
-    pubs = sorted(pubs + other_pubs, key=itemgetter("pubdate"), reverse=True)
     pubs = [p for p in pubs if p["doctype"] in ["article",
                                                 "eprint",
                                                 "inproceedings",
@@ -107,15 +96,15 @@ if __name__ == "__main__":
 
 Total citations~=~{3}; h-index~=~{4} ({0})""".format(
             date.today(), npapers, nfirst, ncitations, hindex))
-    with open("pubs_summary.tex", "w") as f:
+    with open("tex_files/pubs_summary.tex", "w") as f:
         f.write(summary)
     ref = list(map(format_pub, zip(range(len(ref), 0, -1), ref)))
     unref = list(map(format_pub, zip(range(len(unref), 0, -1), unref)))
     inproceedings = list(map(
         format_pub, zip(range(len(inproceedings), 0, -1), inproceedings)))
-    with open("pubs_ref.tex", "w") as f:
+    with open("tex_files/pubs_ref.tex", "w") as f:
         f.write("\n\n".join(ref))
-    with open("pubs_unref.tex", "w") as f:
+    with open("tex_files/pubs_unref.tex", "w") as f:
         f.write("\n\n".join(unref))
-    with open("pubs_inproceedings.tex", "w") as f:
+    with open("tex_files/pubs_inproceedings.tex", "w") as f:
         f.write("\n\n".join(inproceedings))

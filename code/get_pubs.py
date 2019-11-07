@@ -62,5 +62,5 @@ def get_papers(orcid):
 
 if __name__ == "__main__":
     papers = get_papers("0000-0002-8165-2507")
-    with open("pubs.json", "w") as f:
+    with open("json/pubs.json", "w") as f:
         json.dump(papers, f, sort_keys=True, indent=2, separators=(",", ": "))
