@@ -132,6 +132,41 @@
     "year": "2019"
   },
   {
+    "arxiv": "1911.01548",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "Martell, Sarah L.",
+      "Da Costa, Gary",
+      "Horner, Jonathan",
+      "Wyse, Rosemary F. G.",
+      "Ting, Yuan-Sen",
+      "Asplund, Martin",
+      "Bland-Hawthorn, Joss",
+      "Buder, Sven",
+      "De Silva, Gayandhi M.",
+      "Freeman, Ken C.",
+      "Kos, Janez",
+      "Lewis, Geraint F.",
+      "Lind, Karin",
+      "Sharma, Sanjib",
+      "Zucker, Daniel B.",
+      "Zwitter, Toma{\\v{z}}",
+      "{\\v{C}}otar, Klemen",
+      "Cottrell, Peter L.",
+      "Nordlander, Thomas"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-11-00",
+    "title": "The GALAH Survey: Chemically tagging the Fimbulthul stream to the globular cluster $\\omega$ Centauri",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv191101548S",
+    "volume": null,
+    "year": "2019"
+  },
+  {
     "arxiv": "1904.12444",
     "authors": [
       "Sharma, Sanjib",
