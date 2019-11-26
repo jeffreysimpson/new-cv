@@ -74,7 +74,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -126,7 +126,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2861",
     "page": 5335,
@@ -161,7 +161,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 6,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -193,7 +193,7 @@
       "Wang, M. Y.",
       "S<SUP>5</SUP> Collaboration"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab44bf",
     "page": 3,
@@ -245,7 +245,7 @@
       "De Silva, Gayandhi M.",
       "Wang, Mei-Yu"
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2680,
@@ -827,7 +827,7 @@
       "Ting, Yuan-Sen",
       "Traven, Gregor"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2171",
     "page": 5242,
@@ -879,7 +879,7 @@
       "Wittenmyer, Rob A.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2293",
     "page": 645,
@@ -1005,7 +1005,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 86,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1021,7 +1021,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/sty847",
     "page": 4565,
@@ -1224,7 +1224,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2637",
     "page": 4612,
@@ -1448,7 +1448,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 89,
+    "citations": 90,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1490,7 +1490,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -1762,7 +1762,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 248,
+    "citations": 250,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
