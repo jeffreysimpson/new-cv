@@ -26,7 +26,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -135,6 +135,33 @@
     "title": "The K2-HERMES Survey: age and metallicity of the thick disc",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.490.5335S",
     "volume": "490",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Casey, Andrew R.",
+      "Lattanzio, John C.",
+      "Aleti, Aldeida",
+      "Dowe, David L.",
+      "Bland-Hawthorn, Joss",
+      "Buder, Sven",
+      "Lewis, Geraint F.",
+      "Martell, Sarah L.",
+      "Nordlander, Thomas",
+      "Simpson, Jeffrey D.",
+      "Sharma, Sanjib",
+      "Zucker, Daniel B."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/1538-4357/ab4fea",
+    "page": 73,
+    "pub": "The Astrophysical Journal",
+    "pubdate": "2019-12-00",
+    "title": "A Data-driven Model of Nucleosynthesis with Chemical Tagging in a Lower-dimensional Latent Space",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019ApJ...887...73C",
+    "volume": "887",
     "year": "2019"
   },
   {
@@ -613,7 +640,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 21,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -1005,7 +1032,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 91,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1448,7 +1475,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 90,
+    "citations": 91,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1700,7 +1727,7 @@
       "Zucker, Daniel",
       "Zwitter, Tomaz"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.1.3.035002",
     "page": 35002,
@@ -1762,7 +1789,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 251,
+    "citations": 253,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
