@@ -78,7 +78,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2861",
     "page": 5335,
@@ -135,6 +135,24 @@
     "title": "The southern stellar stream spectroscopic survey (S<SUP>5</SUP>): Overview, target selection, data reduction, validation, and early science",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.490.3508L",
     "volume": "490",
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Borsato, Nicholas W.",
+      "Martell, Sarah L.",
+      "Simpson, Jeffrey D."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz3479",
+    "page": 3130,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2019-12-00",
+    "title": "Identifying Stellar Streams in Gaia DR2 with Data Mining Techniques",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp.3130B",
+    "volume": null,
     "year": "2019"
   },
   {
@@ -444,7 +462,7 @@
       "Sharma, Sanjib",
       "Zucker, Daniel B."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -555,7 +573,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 37,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -640,7 +658,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -682,7 +700,7 @@
       "Kafle, Prajwal R.",
       "Nordlander, Thomas"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/sty3042",
     "page": 5302,
@@ -1032,7 +1050,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 96,
+    "citations": 100,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1475,7 +1493,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 92,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1789,7 +1807,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 255,
+    "citations": 260,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
