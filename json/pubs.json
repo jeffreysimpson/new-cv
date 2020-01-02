@@ -138,7 +138,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1907.02527",
     "authors": [
       "Borsato, Nicholas W.",
       "Martell, Sarah L.",
@@ -156,7 +156,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1910.09811",
     "authors": [
       "Casey, Andrew R.",
       "Lattanzio, John C.",
@@ -218,7 +218,7 @@
     "year": "2019"
   },
   {
-    "arxiv": "1907.11725",
+    "arxiv": null,
     "authors": [
       "Koposov, Sergey E.",
       "Douglas, Boubert",
@@ -302,7 +302,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1907.11725",
     "authors": [
       "Koposov, Sergey E.",
       "Boubert, Douglas",
@@ -337,7 +337,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1911.05221",
     "authors": [
       "Lin, Jane",
       "Asplund, Martin",
@@ -377,7 +377,7 @@
     "year": "2019"
   },
   {
-    "arxiv": null,
+    "arxiv": "1911.01548",
     "authors": [
       "Simpson, Jeffrey D.",
       "Martell, Sarah L.",
@@ -408,68 +408,6 @@
     "pubdate": "2019-11-00",
     "title": "The GALAH Survey: Chemically tagging the Fimbulthul stream to the globular cluster {\\ensuremath{\\omega}} Centauri",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.tmp.2703S",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": "1911.01548",
-    "authors": [
-      "Simpson, Jeffrey D.",
-      "Martell, Sarah L.",
-      "Da Costa, Gary",
-      "Horner, Jonathan",
-      "Wyse, Rosemary F. G.",
-      "Ting, Yuan-Sen",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "Buder, Sven",
-      "De Silva, Gayandhi M.",
-      "Freeman, Ken C.",
-      "Kos, Janez",
-      "Lewis, Geraint F.",
-      "Lind, Karin",
-      "Sharma, Sanjib",
-      "Zucker, Daniel B.",
-      "Zwitter, Toma{\\v{z}}",
-      "{\\v{C}}otar, Klemen",
-      "Cottrell, Peter L.",
-      "Nordlander, Thomas"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-11-00",
-    "title": "The GALAH Survey: Chemically tagging the Fimbulthul stream to the globular cluster $\\omega$ Centauri",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv191101548S",
-    "volume": null,
-    "year": "2019"
-  },
-  {
-    "arxiv": "1910.09811",
-    "authors": [
-      "Casey, Andrew R.",
-      "Lattanzio, John C.",
-      "Aleti, Aldeida",
-      "Dowe, David L.",
-      "Bland-Hawthorn, Joss",
-      "Buder, Sven",
-      "Lewis, Geraint F.",
-      "Martell, Sarah L.",
-      "Nordlander, Thomas",
-      "Simpson, Jeffrey D.",
-      "Sharma, Sanjib",
-      "Zucker, Daniel B."
-    ],
-    "citations": 1,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-10-00",
-    "title": "A data-driven model of nucleosynthesis with chemical tagging in a lower-dimensional latent space",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv191009811C",
     "volume": null,
     "year": "2019"
   },
@@ -522,24 +460,6 @@
     "title": "The GALAH survey: unresolved triple Sun-like stars discovered by the Gaia mission",
     "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.487.2474C",
     "volume": "487",
-    "year": "2019"
-  },
-  {
-    "arxiv": "1907.02527",
-    "authors": [
-      "Borsato, Nicholas W.",
-      "Martell, Sarah L.",
-      "Simpson, Jeffrey D."
-    ],
-    "citations": 2,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2019-07-00",
-    "title": "Identifying Stellar Streams in Gaia DR2 with Data Mining Techniques",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019arXiv190702527B",
-    "volume": null,
     "year": "2019"
   },
   {
@@ -658,7 +578,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 24,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -973,36 +893,6 @@
     "year": "2018"
   },
   {
-    "arxiv": "1811.11762",
-    "authors": [
-      "Kos, Janez",
-      "Bland-Hawthorn, Joss",
-      "Asplund, Martin",
-      "Buder, Sven",
-      "Lewis, Geraint F.",
-      "Lin, Jane",
-      "Martell, Sarah L.",
-      "Ness, Melissa K.",
-      "Sharma, Sanjib",
-      "De Silva, Gayandhi M.",
-      "Simpson, Jeffrey D.",
-      "Zucker, Daniel B.",
-      "Zwitter, Toma{\\v{z}}",
-      "{\\v{C}}otar, Klemen",
-      "Spina, Lorenzo"
-    ],
-    "citations": 2,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2018-11-00",
-    "title": "Discovery of a 21 Myr old stellar population in the Orion complex",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2018arXiv181111762K",
-    "volume": null,
-    "year": "2018"
-  },
-  {
     "arxiv": "1804.06041",
     "authors": [
       "Buder, Sven",
@@ -1050,7 +940,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 100,
+    "citations": 102,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1807,7 +1697,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 260,
+    "citations": 261,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
