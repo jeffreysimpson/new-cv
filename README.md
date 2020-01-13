@@ -2,7 +2,7 @@
 
 My CV.
 
-Copyright 2019 Jeffrey Simpson
+Copyright 2020 Jeffrey Simpson
 
 ## Acknowledgements
 
