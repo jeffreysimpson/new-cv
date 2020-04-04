@@ -6,7 +6,7 @@
       "Martell, Sarah L.",
       "Simpson, Jeffrey D."
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3479",
     "page": 1370,
@@ -15,6 +15,42 @@
     "title": "Identifying stellar streams in Gaia DR2 with data mining techniques",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.492.1370B",
     "volume": "492",
+    "year": "2020"
+  },
+  {
+    "arxiv": "1907.11725",
+    "authors": [
+      "Koposov, Sergey E.",
+      "Boubert, Douglas",
+      "Li, Ting S.",
+      "Erkal, Denis",
+      "Da Costa, Gary S.",
+      "Zucker, Daniel B.",
+      "Ji, Alexander P.",
+      "Kuehn, Kyler",
+      "Lewis, Geraint F.",
+      "Mackey, Dougal",
+      "Simpson, Jeffrey D.",
+      "Shipp, Nora",
+      "Wan, Zhen",
+      "Belokurov, Vasily",
+      "Bland-Hawthorn, Joss",
+      "Martell, Sarah L.",
+      "Nordlander, Thomas",
+      "Pace, Andrew B.",
+      "De Silva, Gayandhi M.",
+      "Wang, Mei-Yu",
+      "S5 collaboration"
+    ],
+    "citations": 5,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stz3081",
+    "page": 2465,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-01-00",
+    "title": "Discovery of a nearby 1700 km s<SUP>-1</SUP> star ejected from the Milky Way by Sgr A*",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.491.2465K",
+    "volume": "491",
     "year": "2020"
   },
   {
@@ -52,42 +88,6 @@
     "pubdate": "2020-01-00",
     "title": "The Pristine Inner Galaxy Survey (PIGS) I: tracing the kinematics of metal-poor stars in the Galactic bulge",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.491L..11A",
-    "volume": "491",
-    "year": "2020"
-  },
-  {
-    "arxiv": "1907.11725",
-    "authors": [
-      "Koposov, Sergey E.",
-      "Boubert, Douglas",
-      "Li, Ting S.",
-      "Erkal, Denis",
-      "Da Costa, Gary S.",
-      "Zucker, Daniel B.",
-      "Ji, Alexander P.",
-      "Kuehn, Kyler",
-      "Lewis, Geraint F.",
-      "Mackey, Dougal",
-      "Simpson, Jeffrey D.",
-      "Shipp, Nora",
-      "Wan, Zhen",
-      "Belokurov, Vasily",
-      "Bland-Hawthorn, Joss",
-      "Martell, Sarah L.",
-      "Nordlander, Thomas",
-      "Pace, Andrew B.",
-      "De Silva, Gayandhi M.",
-      "Wang, Mei-Yu",
-      "S5 collaboration"
-    ],
-    "citations": 3,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stz3081",
-    "page": 2465,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2020-01-00",
-    "title": "Discovery of a nearby 1700 km s<SUP>-1</SUP> star ejected from the Milky Way by Sgr A*",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.491.2465K",
     "volume": "491",
     "year": "2020"
   },
@@ -155,7 +155,7 @@
       "Wyse, Rosemary F. G.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3048",
     "page": 2043,
@@ -207,7 +207,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2861",
     "page": 5335,
@@ -255,7 +255,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 4,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -282,7 +282,7 @@
       "Sharma, Sanjib",
       "Zucker, Daniel B."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab4fea",
     "page": 73,
@@ -317,7 +317,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 9,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -349,7 +349,7 @@
       "Wang, M. Y.",
       "S<SUP>5</SUP> Collaboration"
     ],
-    "citations": 6,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab44bf",
     "page": 3,
@@ -366,7 +366,7 @@
       "Simpson, Jeffrey D.",
       "Martell, Sarah L."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2611",
     "page": 741,
@@ -396,7 +396,7 @@
       "{\\v{C}}otar, Klemen",
       "Spina, Lorenzo"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201834710",
     "page": null,
@@ -442,7 +442,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/stz1699",
     "page": 253,
@@ -519,7 +519,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 38,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -604,7 +604,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 23,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -646,7 +646,7 @@
       "Kafle, Prajwal R.",
       "Nordlander, Thomas"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/sty3042",
     "page": 5302,
@@ -779,7 +779,7 @@
       "Ting, Yuan-Sen",
       "Galah Collaboration"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2414",
     "page": 2666,
@@ -870,7 +870,7 @@
       "Wittenmyer, Rob A.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 14,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2293",
     "page": 645,
@@ -907,7 +907,7 @@
       "Nataf, David M.",
       "Ting, Yuan-Sen"
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2175",
     "page": 5475,
@@ -966,7 +966,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 99,
+    "citations": 110,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1274,7 +1274,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 30,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -1318,7 +1318,7 @@
       "Penarrubia, J.",
       "Tolstoy, E."
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1093/mnras/stx1892",
     "page": 4087,
@@ -1409,7 +1409,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 91,
+    "citations": 93,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1451,7 +1451,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 20,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -1469,7 +1469,7 @@
       "Martell, Sarah L.",
       "Navin, Colin A."
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2781",
     "page": 1123,
@@ -1489,7 +1489,7 @@
     "doctype": "proposal",
     "doi": null,
     "page": 159,
-    "pub": "Keck Observatory Archive Z22",
+    "pub": "Keck Observatory Archive Z227",
     "pubdate": "2017-02-00",
     "title": "ESO452: Exploring self-enrichment in low mass stellar clusters",
     "url": "https://ui.adsabs.harvard.edu/#abs/2017koa..prop..159S",
@@ -1532,7 +1532,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
@@ -1554,7 +1554,7 @@
       "Simpson, J. D.",
       "Momany, Y."
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slw073",
     "page": null,
@@ -1723,7 +1723,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 262,
+    "citations": 275,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
