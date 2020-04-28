@@ -1,12 +1,86 @@
 [
   {
+    "arxiv": "2004.06556",
+    "authors": [
+      "Sharma, Sanjib",
+      "Hayden, Michael R.",
+      "Bland-Hawthorn, Joss",
+      "Stello, Dennis",
+      "Buder, Sven",
+      "Zinn, Joel C.",
+      "Kallinger, Thomas",
+      "Asplund, Martin",
+      "De Silva, Gayandhi M.",
+      "Dorazi, Valentina",
+      "Freeman, Ken",
+      "Kos, Janez",
+      "Lewis, Geraint F.",
+      "Lin, Jane",
+      "Lind, Karin",
+      "Martell, Sarah",
+      "Simpson, Jeffrey D.",
+      "Wittenmyer, Rob A.",
+      "Zucker, Daniel B.",
+      "Zwitter, Tomaz",
+      "Chen, Boquan",
+      "Cotar, Klemen",
+      "Esdaile, James",
+      "Hon, Marc",
+      "Horner, Jonathan",
+      "Huber, Daniel",
+      "Kafle, Prajwal R.",
+      "Khanna, Shourya",
+      "Ting, Yuan-sen",
+      "Nataf, David M.",
+      "Nordlander, Thomas",
+      "Saadon, Mohd Hafiz Mohd",
+      "Tinney, C. G.",
+      "Traven, Gregor",
+      "Watson, Fred",
+      "Wright, Duncan",
+      "Wyse, Rosemary F. G."
+    ],
+    "citations": 1,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-04-00",
+    "title": "Fundamental relations for the velocity dispersion of stars in the Milky Way",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200406556S",
+    "volume": null,
+    "year": "2020"
+  },
+  {
+    "arxiv": "2004.07556",
+    "authors": [
+      "Kawka, Adela",
+      "Simpson, Jeffrey D.",
+      "Vennes, Stephane",
+      "Bessell, Michael S.",
+      "Da Costa, Gary S.",
+      "Marino, Anna F.",
+      "Murphy, Simon J."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-04-00",
+    "title": "The closest extremely low-mass white dwarf to the Sun",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200407556K",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "1907.02527",
     "authors": [
       "Borsato, Nicholas W.",
       "Martell, Sarah L.",
       "Simpson, Jeffrey D."
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3479",
     "page": 1370,
@@ -42,7 +116,7 @@
       "Wang, Mei-Yu",
       "S5 collaboration"
     ],
-    "citations": 5,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -115,7 +189,7 @@
       "Cottrell, Peter L.",
       "Nordlander, Thomas"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3105",
     "page": 3374,
@@ -167,6 +241,33 @@
     "year": "2020"
   },
   {
+    "arxiv": "2001.08227",
+    "authors": [
+      "Wheeler, Adam",
+      "Ness, Melissa",
+      "Buder, Sven",
+      "Bland-Hawthorn, Joss",
+      "De Silva, Gayandhi",
+      "Kos, Janez",
+      "Lewis, Geraint F.",
+      "Martell, Sarah",
+      "Sharma, Sanjib",
+      "Simpson, Jeffrey D.",
+      "Zucker, D. B.",
+      "Zwitter, Thoma{\\v{z}}"
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-01-00",
+    "title": "Abundances in the Milky Way across five nucleosynthetic channels from 4 million LAMOST stars",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200108227W",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "1904.12444",
     "authors": [
       "Sharma, Sanjib",
@@ -207,7 +308,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2861",
     "page": 5335,
@@ -282,7 +383,7 @@
       "Sharma, Sanjib",
       "Zucker, Daniel B."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab4fea",
     "page": 73,
@@ -317,7 +418,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 11,
+    "citations": 12,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -396,7 +497,7 @@
       "{\\v{C}}otar, Klemen",
       "Spina, Lorenzo"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201834710",
     "page": null,
@@ -519,7 +620,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -646,7 +747,7 @@
       "Kafle, Prajwal R.",
       "Nordlander, Thomas"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1093/mnras/sty3042",
     "page": 5302,
@@ -779,7 +880,7 @@
       "Ting, Yuan-Sen",
       "Galah Collaboration"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2414",
     "page": 2666,
@@ -966,7 +1067,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 110,
+    "citations": 118,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -982,7 +1083,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/sty847",
     "page": 4565,
@@ -1294,7 +1395,7 @@
       "Navin, Colin A.",
       "Zucker, Daniel B."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2174",
     "page": 2856,
@@ -1409,7 +1510,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 93,
+    "citations": 94,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1451,7 +1552,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -1723,7 +1824,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 275,
+    "citations": 282,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -1823,7 +1924,7 @@
       "Simpson, Jeffrey D.",
       "Cottrell, P. L."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/stt857",
     "page": 1892,
@@ -1841,7 +1942,7 @@
       "Cottrell, P. L.",
       "Worley, C. C."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1111/j.1365-2966.2012.22012.x",
     "page": 1153,
