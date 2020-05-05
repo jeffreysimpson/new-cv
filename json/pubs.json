@@ -1,5 +1,27 @@
 [
   {
+    "arxiv": "2004.07556",
+    "authors": [
+      "Kawka, Adela",
+      "Simpson, Jeffrey D.",
+      "Vennes, St{\\'e}phane",
+      "Bessell, Michael S.",
+      "Da Costa, Gary S.",
+      "Marino, Anna F.",
+      "Murphy, Simon J."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnrasl/slaa068",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-04-00",
+    "title": "The closest extremely low-mass white dwarf to the Sun",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.tmpL..66K",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "2004.06556",
     "authors": [
       "Sharma, Sanjib",
@@ -52,35 +74,13 @@
     "year": "2020"
   },
   {
-    "arxiv": "2004.07556",
-    "authors": [
-      "Kawka, Adela",
-      "Simpson, Jeffrey D.",
-      "Vennes, Stephane",
-      "Bessell, Michael S.",
-      "Da Costa, Gary S.",
-      "Marino, Anna F.",
-      "Murphy, Simon J."
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-04-00",
-    "title": "The closest extremely low-mass white dwarf to the Sun",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200407556K",
-    "volume": null,
-    "year": "2020"
-  },
-  {
     "arxiv": "1907.02527",
     "authors": [
       "Borsato, Nicholas W.",
       "Martell, Sarah L.",
       "Simpson, Jeffrey D."
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3479",
     "page": 1370,
@@ -116,7 +116,7 @@
       "Wang, Mei-Yu",
       "S5 collaboration"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -154,7 +154,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -620,7 +620,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -705,7 +705,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 27,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -1067,7 +1067,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 118,
+    "citations": 119,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1510,7 +1510,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1633,7 +1633,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
@@ -1824,7 +1824,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 282,
+    "citations": 283,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
