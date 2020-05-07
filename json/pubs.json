@@ -74,6 +74,48 @@
     "year": "2020"
   },
   {
+    "arxiv": "2005.00014",
+    "authors": [
+      "Traven, G.",
+      "Feltzing, S.",
+      "Merle, T.",
+      "Van der Swaelmen, M.",
+      "{\\v{C}}otar, K.",
+      "Church, R.",
+      "Zwitter, T.",
+      "Ting, Y. -S.",
+      "Sahlholdt, C.",
+      "Asplund, M.",
+      "Bland-Hawthorn, J.",
+      "De Silva, G.",
+      "Freeman, K.",
+      "Martell, S.",
+      "Sharma, S.",
+      "Zucker, D.",
+      "Buder, S.",
+      "Casey, A.",
+      "D'Orazi, V.",
+      "Kos, J.",
+      "Lewis, G.",
+      "Lin, J.",
+      "Lind, K.",
+      "Simpson, J.",
+      "Stello, D.",
+      "Munari, U.",
+      "Wittenmyer, R. A."
+    ],
+    "citations": 0,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-04-00",
+    "title": "The GALAH survey: Multiple stars and our Galaxy. I. A comprehensive method for deriving properties of FGK binary stars",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200500014T",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "1907.02527",
     "authors": [
       "Borsato, Nicholas W.",
@@ -308,7 +350,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2861",
     "page": 5335,
@@ -578,7 +620,7 @@
       "Wittenmyer, Rob A.",
       "Galah Collaboration"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stz1397",
     "page": 2474,
@@ -747,7 +789,7 @@
       "Kafle, Prajwal R.",
       "Nordlander, Thomas"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/sty3042",
     "page": 5302,
@@ -971,7 +1013,7 @@
       "Wittenmyer, Rob A.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2293",
     "page": 645,
@@ -1067,7 +1109,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 119,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1200,7 +1242,7 @@
       "Ting, Y. -S.",
       "Wyse, R. F. G."
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1093/mnras/sty525",
     "page": 5216,
@@ -1286,7 +1328,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2637",
     "page": 4612,
@@ -1335,7 +1377,7 @@
       "Traven, Gregor",
       "Wright, Duncan"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaa3e4",
     "page": 84,
@@ -1375,7 +1417,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 32,
+    "citations": 33,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -1552,7 +1594,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -1633,7 +1675,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
