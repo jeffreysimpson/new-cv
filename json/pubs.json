@@ -17,8 +17,8 @@
     "pub": "Monthly Notices of the Royal Astronomical Society",
     "pubdate": "2020-04-00",
     "title": "The closest extremely low-mass white dwarf to the Sun",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.tmpL..66K",
-    "volume": null,
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.495L.129K",
+    "volume": "495",
     "year": "2020"
   },
   {
@@ -62,7 +62,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -231,7 +231,7 @@
       "Cottrell, Peter L.",
       "Nordlander, Thomas"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3105",
     "page": 3374,
@@ -350,7 +350,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2861",
     "page": 5335,
@@ -662,7 +662,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -1417,7 +1417,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 33,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -1866,7 +1866,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 283,
+    "citations": 285,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -1933,7 +1933,7 @@
       "Zucker, Daniel"
     ],
     "citations": 8,
-    "doctype": "inbook",
+    "doctype": "inproceedings",
     "doi": "10.1117/12.2055595",
     "page": null,
     "pub": "Ground-based and Airborne Instrumentation for Astronomy V",
