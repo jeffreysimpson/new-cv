@@ -1,5 +1,27 @@
 [
   {
+    "arxiv": "2004.07556",
+    "authors": [
+      "Kawka, Adela",
+      "Simpson, Jeffrey D.",
+      "Vennes, St{\\'e}phane",
+      "Bessell, Michael S.",
+      "Da Costa, Gary S.",
+      "Marino, Anna F.",
+      "Murphy, Simon J."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnrasl/slaa068",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2020-04-00",
+    "title": "The closest extremely low-mass white dwarf to the Sun",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.495L.129K",
+    "volume": "495",
+    "year": "2020"
+  },
+  {
     "arxiv": "2004.06556",
     "authors": [
       "Sharma, Sanjib",
@@ -40,7 +62,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -52,15 +74,35 @@
     "year": "2020"
   },
   {
-    "arxiv": "2004.07556",
+    "arxiv": "2005.00014",
     "authors": [
-      "Kawka, Adela",
-      "Simpson, Jeffrey D.",
-      "Vennes, Stephane",
-      "Bessell, Michael S.",
-      "Da Costa, Gary S.",
-      "Marino, Anna F.",
-      "Murphy, Simon J."
+      "Traven, G.",
+      "Feltzing, S.",
+      "Merle, T.",
+      "Van der Swaelmen, M.",
+      "{\\v{C}}otar, K.",
+      "Church, R.",
+      "Zwitter, T.",
+      "Ting, Y. -S.",
+      "Sahlholdt, C.",
+      "Asplund, M.",
+      "Bland-Hawthorn, J.",
+      "De Silva, G.",
+      "Freeman, K.",
+      "Martell, S.",
+      "Sharma, S.",
+      "Zucker, D.",
+      "Buder, S.",
+      "Casey, A.",
+      "D'Orazi, V.",
+      "Kos, J.",
+      "Lewis, G.",
+      "Lin, J.",
+      "Lind, K.",
+      "Simpson, J.",
+      "Stello, D.",
+      "Munari, U.",
+      "Wittenmyer, R. A."
     ],
     "citations": 0,
     "doctype": "eprint",
@@ -68,8 +110,8 @@
     "page": null,
     "pub": "arXiv e-prints",
     "pubdate": "2020-04-00",
-    "title": "The closest extremely low-mass white dwarf to the Sun",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200407556K",
+    "title": "The GALAH survey: Multiple stars and our Galaxy. I. A comprehensive method for deriving properties of FGK binary stars",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200500014T",
     "volume": null,
     "year": "2020"
   },
@@ -80,7 +122,7 @@
       "Martell, Sarah L.",
       "Simpson, Jeffrey D."
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3479",
     "page": 1370,
@@ -116,7 +158,7 @@
       "Wang, Mei-Yu",
       "S5 collaboration"
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -154,7 +196,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -189,7 +231,7 @@
       "Cottrell, Peter L.",
       "Nordlander, Thomas"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3105",
     "page": 3374,
@@ -308,7 +350,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 6,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2861",
     "page": 5335,
@@ -578,7 +620,7 @@
       "Wittenmyer, Rob A.",
       "Galah Collaboration"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stz1397",
     "page": 2474,
@@ -620,7 +662,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 45,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -705,7 +747,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 27,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -747,7 +789,7 @@
       "Kafle, Prajwal R.",
       "Nordlander, Thomas"
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1093/mnras/sty3042",
     "page": 5302,
@@ -971,7 +1013,7 @@
       "Wittenmyer, Rob A.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 16,
+    "citations": 17,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2293",
     "page": 645,
@@ -1067,7 +1109,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 118,
+    "citations": 120,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1200,7 +1242,7 @@
       "Ting, Y. -S.",
       "Wyse, R. F. G."
     ],
-    "citations": 21,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1093/mnras/sty525",
     "page": 5216,
@@ -1286,7 +1328,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary"
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2637",
     "page": 4612,
@@ -1335,7 +1377,7 @@
       "Traven, Gregor",
       "Wright, Duncan"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaa3e4",
     "page": 84,
@@ -1375,7 +1417,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 32,
+    "citations": 34,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -1510,7 +1552,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 94,
+    "citations": 95,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1552,7 +1594,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -1633,7 +1675,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 30,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
@@ -1824,7 +1866,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 282,
+    "citations": 285,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -1891,7 +1933,7 @@
       "Zucker, Daniel"
     ],
     "citations": 8,
-    "doctype": "inbook",
+    "doctype": "inproceedings",
     "doi": "10.1117/12.2055595",
     "page": null,
     "pub": "Ground-based and Airborne Instrumentation for Astronomy V",
