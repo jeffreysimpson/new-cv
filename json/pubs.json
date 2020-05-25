@@ -1,5 +1,21 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Simpson, Jeffrey D."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.3847/2515-5172/ab917e",
+    "page": 70,
+    "pub": "Research Notes of the American Astronomical Society",
+    "pubdate": "2020-05-00",
+    "title": "Empirical Relationship between Calcium Triplet Equivalent Widths and [Fe/H] Using Gaia Photometry",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020RNAAS...4...70S",
+    "volume": "4",
+    "year": "2020"
+  },
+  {
     "arxiv": "2004.07556",
     "authors": [
       "Kawka, Adela",
@@ -10,7 +26,7 @@
       "Marino, Anna F.",
       "Murphy, Simon J."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slaa068",
     "page": null,
@@ -158,7 +174,7 @@
       "Wang, Mei-Yu",
       "S5 collaboration"
     ],
-    "citations": 8,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -196,7 +212,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -271,7 +287,7 @@
       "Wyse, Rosemary F. G.",
       "{\\v{Z}}erjal, Maru{\\v{s}}a"
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3048",
     "page": 2043,
@@ -398,7 +414,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -460,7 +476,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 12,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -492,7 +508,7 @@
       "Wang, M. Y.",
       "S<SUP>5</SUP> Collaboration"
     ],
-    "citations": 8,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab44bf",
     "page": 3,
@@ -747,7 +763,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -961,7 +977,7 @@
       "Ting, Yuan-Sen",
       "Traven, Gregor"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2171",
     "page": 5242,
@@ -1109,7 +1125,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 120,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1173,7 +1189,7 @@
       "Wittenmyer, Rob",
       "Wyse, Rosemary"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1093/mnras/sty865",
     "page": 228,
@@ -1697,7 +1713,7 @@
       "Simpson, J. D.",
       "Momany, Y."
     ],
-    "citations": 26,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slw073",
     "page": null,
@@ -1866,7 +1882,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 285,
+    "citations": 288,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
@@ -1966,7 +1982,7 @@
       "Simpson, Jeffrey D.",
       "Cottrell, P. L."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/stt857",
     "page": 1892,
