@@ -16,7 +16,7 @@
       "Zucker, D. B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab9a46",
     "page": 58,
@@ -65,7 +65,7 @@
     "year": "2020"
   },
   {
-    "arxiv": "2007.14577",
+    "arxiv": null,
     "authors": [
       "Wan, Zhen",
       "Lewis, Geraint F.",
@@ -90,14 +90,14 @@
       "De Silva, Gayandhi M."
     ],
     "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
+    "doctype": "article",
+    "doi": "10.1038/s41586-020-2483-6",
+    "page": 768,
+    "pub": "Nature",
     "pubdate": "2020-07-00",
     "title": "The tidal remnant of an unusually metal-poor globular cluster",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200714577W",
-    "volume": null,
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020Natur.584...51K",
+    "volume": "583",
     "year": "2020"
   },
   {
@@ -211,7 +211,7 @@
       "Munari, U.",
       "Wittenmyer, R. A."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202037484",
     "page": null,
@@ -249,7 +249,7 @@
       "Montet, Benjamin",
       "Wittenmyer, Rob"
     ],
-    "citations": 1,
+    "citations": 3,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -257,6 +257,41 @@
     "pubdate": "2020-06-00",
     "title": "The GALAH survey: Lithium-rich giant stars require multiple formation channels",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200602106M",
+    "volume": null,
+    "year": "2020"
+  },
+  {
+    "arxiv": "2006.10763",
+    "authors": [
+      "Li, Ting S.",
+      "Koposov, Sergey E.",
+      "Erkal, Denis",
+      "Ji, Alexander P.",
+      "Shipp, Nora",
+      "Pace, Andrew B.",
+      "Hilmi, Tariq",
+      "Kuehn, Kyler",
+      "Lewis, Geraint F.",
+      "Mackey, Dougal",
+      "Simpson, Jeffrey D.",
+      "Wan, Zhen",
+      "Zucker, Daniel B.",
+      "Bland-Hawthorn, Joss",
+      "Cullinane, Lara R.",
+      "Da Costa, Gary S.",
+      "Drlica-Wagner, Alex",
+      "Hattori, Kohei",
+      "Martell, Sarah L.",
+      "Sharma, Sanjib"
+    ],
+    "citations": 1,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-06-00",
+    "title": "Broken into Pieces: ATLAS and Aliqa Uma as One Single Stream",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200610763L",
     "volume": null,
     "year": "2020"
   },
@@ -299,41 +334,6 @@
     "pubdate": "2020-06-00",
     "title": "VizieR Online Data Catalog: GALAH survey. FGK binary stars (Traven+, 2020)",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020yCat..36380145T",
-    "volume": null,
-    "year": "2020"
-  },
-  {
-    "arxiv": "2006.10763",
-    "authors": [
-      "Li, Ting S.",
-      "Koposov, Sergey E.",
-      "Erkal, Denis",
-      "Ji, Alexander P.",
-      "Shipp, Nora",
-      "Pace, Andrew B.",
-      "Hilmi, Tariq",
-      "Kuehn, Kyler",
-      "Lewis, Geraint F.",
-      "Mackey, Dougal",
-      "Simpson, Jeffrey D.",
-      "Wan, Zhen",
-      "Zucker, Daniel B.",
-      "Bland-Hawthorn, Joss",
-      "Cullinane, Lara R.",
-      "Da Costa, Gary S.",
-      "Drlica-Wagner, Alex",
-      "Hattori, Kohei",
-      "Martell, Sarah L.",
-      "Sharma, Sanjib"
-    ],
-    "citations": 0,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-06-00",
-    "title": "Broken into Pieces: ATLAS and Aliqa Uma as One Single Stream",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200610763L",
     "volume": null,
     "year": "2020"
   },
@@ -470,7 +470,7 @@
       "Wang, Mei-Yu",
       "S5 collaboration"
     ],
-    "citations": 17,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -543,7 +543,7 @@
       "Cottrell, Peter L.",
       "Nordlander, Thomas"
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3105",
     "page": 3374,
@@ -635,7 +635,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 14,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2861",
     "page": 5335,
@@ -683,7 +683,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 19,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -777,7 +777,7 @@
       "Wang, M. Y.",
       "S<SUP>5</SUP> Collaboration"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab44bf",
     "page": 3,
@@ -794,7 +794,7 @@
       "Simpson, Jeffrey D.",
       "Martell, Sarah L."
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2611",
     "page": 741,
@@ -870,7 +870,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 6,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.1093/mnras/stz1699",
     "page": 253,
@@ -947,7 +947,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 55,
+    "citations": 58,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -1207,7 +1207,7 @@
       "Ting, Yuan-Sen",
       "Galah Collaboration"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1093/mnras/sty2414",
     "page": 2666,
@@ -1394,7 +1394,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 138,
+    "citations": 142,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1410,7 +1410,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/sty847",
     "page": 4565,
@@ -1613,7 +1613,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary"
     ],
-    "citations": 21,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2637",
     "page": 4612,
@@ -1662,7 +1662,7 @@
       "Traven, Gregor",
       "Wright, Duncan"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaa3e4",
     "page": 84,
@@ -1702,7 +1702,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 38,
+    "citations": 39,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -1837,7 +1837,7 @@
       "Watson, F. G.",
       "Wittenmyer, R."
     ],
-    "citations": 102,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2835",
     "page": 3203,
@@ -1879,7 +1879,7 @@
       "Reid, W.",
       "Ting, Y. -S."
     ],
-    "citations": 25,
+    "citations": 27,
     "doctype": "article",
     "doi": "10.3847/1538-4365/228/2/24",
     "page": 24,
@@ -1960,7 +1960,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 35,
+    "citations": 37,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
@@ -2011,7 +2011,7 @@
       "Reid, Warren",
       "Wittenmyer, Robert A."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/stw746",
     "page": 1069,
@@ -2089,7 +2089,7 @@
       "Zucker, Daniel",
       "Zwitter, Tomaz"
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.1.3.035002",
     "page": 35002,
@@ -2151,7 +2151,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 311,
+    "citations": 315,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
