@@ -16,7 +16,7 @@
       "Zucker, D. B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ab9a46",
     "page": 58,
@@ -53,7 +53,7 @@
       "Geisler, Doug",
       "O'Connell, Julia E."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1093/mnras/staa1661",
     "page": 4964,
@@ -181,6 +181,44 @@
     "year": "2020"
   },
   {
+    "arxiv": "2006.02106",
+    "authors": [
+      "Martell, Sarah",
+      "Simpson, Jeffrey",
+      "Balasubramaniam, Adithya",
+      "Buder, Sven",
+      "Sharma, Sanjib",
+      "Hon, Marc",
+      "Stello, Dennis",
+      "Ting, Yuan-Sen",
+      "Asplund, Martin",
+      "Bland-Hawthorn, Joss",
+      "De Silva, Gayandhi",
+      "Freeman, Ken",
+      "Hayden, Michael",
+      "Kos, Janez",
+      "Lewis, Geraint",
+      "Lind, Karin",
+      "Zucker, Daniel",
+      "Zwitter, Tomaz",
+      "Campbell, Simon",
+      "Cotar, Klemen",
+      "Horner, Jonathan",
+      "Montet, Benjamin",
+      "Wittenmyer, Rob"
+    ],
+    "citations": 5,
+    "doctype": "eprint",
+    "doi": null,
+    "page": null,
+    "pub": "arXiv e-prints",
+    "pubdate": "2020-06-00",
+    "title": "The GALAH survey: Lithium-rich giant stars require multiple formation channels",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200602106M",
+    "volume": null,
+    "year": "2020"
+  },
+  {
     "arxiv": "2005.00014",
     "authors": [
       "Traven, G.",
@@ -220,44 +258,6 @@
     "title": "The GALAH survey: multiple stars and our Galaxy. I. A comprehensive method for deriving properties of FGK binary stars",
     "url": "https://ui.adsabs.harvard.edu/#abs/2020A&A...638A.145T",
     "volume": "638",
-    "year": "2020"
-  },
-  {
-    "arxiv": "2006.02106",
-    "authors": [
-      "Martell, Sarah",
-      "Simpson, Jeffrey",
-      "Balasubramaniam, Adithya",
-      "Buder, Sven",
-      "Sharma, Sanjib",
-      "Hon, Marc",
-      "Stello, Dennis",
-      "Ting, Yuan-Sen",
-      "Asplund, Martin",
-      "Bland-Hawthorn, Joss",
-      "De Silva, Gayandhi",
-      "Freeman, Ken",
-      "Hayden, Michael",
-      "Kos, Janez",
-      "Lewis, Geraint",
-      "Lind, Karin",
-      "Zucker, Daniel",
-      "Zwitter, Tomaz",
-      "Campbell, Simon",
-      "Cotar, Klemen",
-      "Horner, Jonathan",
-      "Montet, Benjamin",
-      "Wittenmyer, Rob"
-    ],
-    "citations": 3,
-    "doctype": "eprint",
-    "doi": null,
-    "page": null,
-    "pub": "arXiv e-prints",
-    "pubdate": "2020-06-00",
-    "title": "The GALAH survey: Lithium-rich giant stars require multiple formation channels",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020arXiv200602106M",
-    "volume": null,
     "year": "2020"
   },
   {
@@ -416,7 +416,7 @@
       "Wright, Duncan",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 3,
+    "citations": 4,
     "doctype": "eprint",
     "doi": null,
     "page": null,
@@ -434,7 +434,7 @@
       "Martell, Sarah L.",
       "Simpson, Jeffrey D."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3479",
     "page": 1370,
@@ -470,7 +470,7 @@
       "Wang, Mei-Yu",
       "S5 collaboration"
     ],
-    "citations": 19,
+    "citations": 21,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -508,7 +508,7 @@
       "Simpson, J. D.",
       "Wan, Z."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnrasl/slz156",
     "page": null,
@@ -745,7 +745,7 @@
       "Zucker, Daniel B.",
       "Zwitter, Toma{\\v{z}}"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2462",
     "page": 4962,
@@ -870,7 +870,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 7,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/mnras/stz1699",
     "page": 253,
@@ -947,7 +947,7 @@
       "Ting, Yuan-Sen",
       "Wyse, Rosemary F. G."
     ],
-    "citations": 58,
+    "citations": 60,
     "doctype": "article",
     "doi": "10.1093/mnras/stz217",
     "page": 1167,
@@ -1032,7 +1032,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 40,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -1394,7 +1394,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 142,
+    "citations": 146,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -1702,7 +1702,7 @@
       "Wittenmyer, Rob A.",
       "Zucker, Daniel B."
     ],
-    "citations": 39,
+    "citations": 41,
     "doctype": "article",
     "doi": "10.1093/mnras/stx2582",
     "page": 2004,
@@ -1897,7 +1897,7 @@
       "Martell, Sarah L.",
       "Navin, Colin A."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2781",
     "page": 1123,
@@ -2151,7 +2151,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 315,
+    "citations": 320,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
