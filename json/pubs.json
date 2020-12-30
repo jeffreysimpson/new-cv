@@ -520,44 +520,6 @@
     "year": "2020"
   },
   {
-    "arxiv": "1910.06337",
-    "authors": [
-      "Arentsen, A.",
-      "Starkenburg, E.",
-      "Martin, N. F.",
-      "Hill, V.",
-      "Ibata, R.",
-      "Kunder, A.",
-      "Schultheis, M.",
-      "Venn, K. A.",
-      "Zucker, D. B.",
-      "Aguado, D.",
-      "Carlberg, R.",
-      "Gonz{\\'a}lez Hern{\\'a}ndez, J. I.",
-      "Lardo, C.",
-      "Longeard, N.",
-      "Malhan, K.",
-      "Navarro, J. F.",
-      "S{\\'a}nchez-Janssen, R.",
-      "Sestito, F.",
-      "Thomas, G.",
-      "Youakim, K.",
-      "Lewis, G. F.",
-      "Simpson, J. D.",
-      "Wan, Z."
-    ],
-    "citations": 13,
-    "doctype": "article",
-    "doi": "10.1093/mnrasl/slz156",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2020-01-00",
-    "title": "The Pristine Inner Galaxy Survey (PIGS) I: tracing the kinematics of metal-poor stars in the Galactic bulge",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2020MNRAS.491L..11A",
-    "volume": "491",
-    "year": "2020"
-  },
-  {
     "arxiv": "1911.01548",
     "authors": [
       "Simpson, Jeffrey D.",
@@ -617,7 +579,7 @@
       "Sharma, Sanjib",
       "De Silva, Gayandhi M."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1038/s41586-020-2483-6",
     "page": 768,
@@ -1170,44 +1132,6 @@
     "year": "2019"
   },
   {
-    "arxiv": "1804.07217",
-    "authors": [
-      "Khanna, Shourya",
-      "Sharma, Sanjib",
-      "Bland-Hawthorn, Joss",
-      "Hayden, Michael",
-      "Nataf, David M.",
-      "Ting, Yuan-Sen",
-      "Kos, Janez",
-      "Martell, Sarah",
-      "Zwitter, Toma{\\v{z}}",
-      "De Silva, Gayandhi",
-      "Asplund, Martin",
-      "Buder, Sven",
-      "Duong, Ly",
-      "Lin, Jane",
-      "Simpson, Jeffrey D.",
-      "Anguiano, Borja",
-      "Horner, Jonathan",
-      "Kafle, Prajwal R.",
-      "Lewis, Geraint F.",
-      "Nordlander, Thomas",
-      "Wyse, Rosemary F. G.",
-      "Wittenmyer, Robert A.",
-      "Zucker, Daniel B."
-    ],
-    "citations": 3,
-    "doctype": "article",
-    "doi": "10.1093/mnras/sty2924",
-    "page": 4215,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2019-01-00",
-    "title": "The GALAH survey: velocity fluctuations in the Milky Way using Red Clump giants",
-    "url": "https://ui.adsabs.harvard.edu/#abs/2019MNRAS.482.4215K",
-    "volume": "482",
-    "year": "2019"
-  },
-  {
     "arxiv": "1804.06394",
     "authors": [
       "Gao, Xudong",
@@ -1444,7 +1368,7 @@
     "authors": [
       "Simpson, Jeffrey D."
     ],
-    "citations": 10,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1093/mnras/sty847",
     "page": 4565,
