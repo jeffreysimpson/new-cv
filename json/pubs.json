@@ -905,7 +905,7 @@
       "Wang, Mei-Yu",
       "S5 Collaboration"
     ],
-    "citations": 31,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1093/mnras/stz3081",
     "page": 2465,
@@ -1154,7 +1154,7 @@
       "Yanny, B.",
       "S5 Collaboration"
     ],
-    "citations": 25,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2731",
     "page": 3508,
@@ -1503,7 +1503,7 @@
       "Wyse, R. F. G.",
       "Galah Collaboration"
     ],
-    "citations": 48,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201833218",
     "page": null,
@@ -1865,7 +1865,7 @@
       "{\\v{Z}}erjal, Maru{\\v{s}}a",
       "Galah Collaboration"
     ],
-    "citations": 174,
+    "citations": 173,
     "doctype": "article",
     "doi": "10.1093/mnras/sty1281",
     "page": 4513,
@@ -2431,7 +2431,7 @@
       "Watson, Fred",
       "Wittenmyer, Robert A."
     ],
-    "citations": 44,
+    "citations": 43,
     "doctype": "article",
     "doi": "10.1093/mnras/stw2064",
     "page": 1259,
@@ -2462,6 +2462,35 @@
     "title": "An extreme paucity of second population AGB stars in the `normal' globular cluster M4",
     "url": "https://ui.adsabs.harvard.edu/#abs/2016MNRAS.460L..69M",
     "volume": "460",
+    "year": "2016"
+  },
+  {
+    "arxiv": "1603.08991",
+    "authors": [
+      "Simpson, Jeffrey D.",
+      "De Silva, G. M.",
+      "Bland-Hawthorn, J.",
+      "Freeman, K. C.",
+      "Martell, S. L.",
+      "Schlesinger, Katharine J.",
+      "Sharma, Sanjib",
+      "Zucker, D. B.",
+      "Zwitter, T.",
+      "Kos, J.",
+      "Anguiano, Borja",
+      "Nataf, David M.",
+      "Reid, Warren",
+      "Wittenmyer, Robert A."
+    ],
+    "citations": 6,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stw746",
+    "page": 1069,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2016-06-00",
+    "title": "The GALAH survey: relative throughputs of the 2dF fibre positioner and the HERMES spectrograph from stellar targets",
+    "url": "https://ui.adsabs.harvard.edu/#abs/2016MNRAS.459.1069S",
+    "volume": "459",
     "year": "2016"
   },
   {
@@ -2622,7 +2651,7 @@
       "Yong, D.",
       "{\\v{Z}}erjal, M."
     ],
-    "citations": 347,
+    "citations": 348,
     "doctype": "article",
     "doi": "10.1093/mnras/stv327",
     "page": 2604,
