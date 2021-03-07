@@ -1,0 +1,17 @@
+*.pdf
+*.swp
+.DS_Store
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.dvi
+*.ps
+*.eps
+*.ipynb
+*.gz
+.texpadtmp*
+__pycache__
+*.fls
+*.fdb_latexmk
